@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nugraha10.kebudayaannusantara">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home" />
+        <activity android:name=".Menu" />
+        <activity android:name=".prov.Aceh" />
+        <activity android:name=".prov.Sumbar" />
+        <activity android:name=".prov.Sumut" />
+        <activity android:name=".prov.Riau" />
+        <activity android:name=".prov.KepRiau" />
+        <activity android:name=".prov.Jambi" />
+        <activity android:name=".prov.Bangka" />
+        <activity android:name=".prov.Sumsel" />
+        <activity android:name=".prov.Bengkulu" />
+        <activity android:name=".prov.Lampung" />
+        <activity android:name=".prov.Kalbar" />
+        <activity android:name=".prov.Kalsel" />
+        <activity android:name=".prov.Kalteng" />
+        <activity android:name=".prov.Papua" />
+        <activity android:name=".prov.Bali" />
+        <activity android:name=".prov.Banten" />
+        <activity android:name=".prov.DKI" />
+        <activity android:name=".prov.Jabar" />
+        <activity android:name=".prov.Jateng" />
+        <activity android:name=".prov.DIY" />
+        <activity android:name=".prov.Jatim" />
+        <activity android:name=".prov.Kalut" />
+        <activity android:name=".prov.Kaltim" />
+        <activity android:name=".prov.Maluku" />
+        <activity android:name=".prov.Malut" />
+        <activity android:name=".prov.Papbar" />
+        <activity android:name=".prov.NTT" />
+        <activity android:name=".prov.Gorontalo" />
+        <activity android:name=".prov.Sulbar" />
+        <activity android:name=".prov.Sulteng" />
+        <activity android:name=".prov.Sulsel" />
+        <activity android:name=".prov.Sulut" />
+        <activity android:name=".prov.Sulgara" />
+        <activity android:name=".prov.NTB"></activity>
+    </application>
+
+</manifest>

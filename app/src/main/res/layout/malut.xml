@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc"
+    tools:context="com.example.nugraha10.kebudayaannusantara.prov.Lampung">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/malut" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/malut"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:fontFamily="casual"
+            android:textColor="@color/putih"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@color/item"></View>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/malut1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rumah Adat Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rumahmalut"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Rumah Adat Sasadu )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/rumahmalut"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pakaian Adat Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/pakaianmalut"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Pakaian Adat Manteren Lemo)"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/pakaianmalut"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Senjata Tradisional Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/senjatamalut"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Parang Sawaliku )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/senjatamalut"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Makanan Khas Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/makananmalut"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Gohu Ikan )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/makananmalut"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tarian Khas Maluku Utara"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/tarianmalut"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Tari Perang)"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/tarianmalut"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

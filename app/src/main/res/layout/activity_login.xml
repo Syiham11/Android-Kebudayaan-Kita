@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc"
+    tools:context="com.example.nugraha10.kebudayaannusantara.Login">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KEBUDAYAAN NUSANTARA"
+            android:fontFamily="cursive"
+            android:textSize="25sp"
+            android:layout_marginTop="45dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/putih"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="170sp"
+            android:background="@drawable/peta"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/putih"
+            android:textSize="15dp"
+            android:text="Username" />
+
+        <EditText
+            android:id="@+id/txt_username"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_below="@+id/TFuname"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/putih"
+            android:textSize="15dp"
+            android:text="Password" />
+
+        <EditText
+            android:id="@+id/txt_password"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:password="true"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:background="@drawable/cornerrr"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/TFpassword"
+            android:text="Login" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

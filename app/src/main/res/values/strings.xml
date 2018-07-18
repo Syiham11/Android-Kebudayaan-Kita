@@ -1,0 +1,1369 @@
+<resources>
+
+    <string-array name="array">
+        <item>
+            " . Data Provinsi . "
+        </item>
+
+
+    </string-array>
+
+
+    <string name="app_name">Kebudayaan Nusantara</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="aceh"> NANGROE ACEH DARUSSALAM</string>
+    <string name="aceh2">
+        "\t Nama: Daerah Khusus dan Daerah Istimewa Aceh | Pulau: Sumatera | Ibukota: Banda Aceh \n\n"
+        "\t Gubernur: drh. H. Irwandi Yusuf M.Sc | Wakil Gubernur: Ir. H. Nova Iriansyah M.T (sejak 5 Juli 2017) \n\n"
+        "\t Kode BPS: 11 | Kode ISO: ID-AC | Kode kendaraan: BL \n\n"
+        "\t Kode telepon: 0641-0659, 0627, 0629 | Kode pos: 23111-24791 \n\n"
+        "\t Luas: 57.365,09 km2 | Populasi: 5.189.466 jiwa | Kepadatan: 90.46 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 18 kabupaten dan 5 kota, 276 kecamatan, 6.424 desa/kelurahan \n\n"
+        "\t Semboyan: Pancacita (Bahasa Sanskerta); Bahasa Indonesia: "Lima cita-cita" \n\n"
+    </string>
+    <string name="rumahaceh">
+        "Rumah tradisonal suku Aceh dinamakan Rumoh Aceh. Rumah adat ini bertipe rumah panggung dengan 3 bagian utama dan 1 bagian tambahan. Tiga bagian utama dari rumah Aceh yaitu seuramoë keuë (serambi depan), seuramoë teungoh (serambi tengah) dan seuramoë likôt (serambi belakang). Sedangkan 1 bagian tambahannya yaitu rumoh dapu (rumah dapur)."
+    </string>
+    <string name="senjataaceh">
+        "Rencong adalah senjata tradisional suku Aceh, bentuknya menyerupai huruf L, dan bila dilihat lebih dekat bentuknya merupakan kaligrafi tulisan bismillah. Rencong termasuk dalam kategori belati. "
+        " Selain rencong, bangsa Aceh juga memiliki beberapa senjata khas lainnya, seperti sikin panyang, peurise awe, peurise teumaga, siwah, geuliwang dan peudeueng."
+    </string>
+    <string name="makananaceh1">
+        "Aceh mempunyai aneka jenis makanan yang khas. Antara lain timphan, gulai bebek, kari kambing yang lezat, Gulai Pliek U dan meuseukat yang langka. "
+        "Di samping itu emping melinjo asal kabupaten Pidie yang terkenal gurih, dodol Sabang yang dibuat dengan aneka rasa, ketan durian (boh drien ngon bu leukat), "
+        "serta bolu manis asal Peukan Bada, Aceh Besar juga bisa jadi andalan bagi Aceh. Di Pidie Jaya terkenal dengan kue khas Meureudu yaitu adèe. "
+        "Sedangkan di kabupaten Aceh Utara lazim kita temukan kuliner khas lainnya yaitu martabak durian yang lezat. "
+        </string>
+    <string name="makananaceh2">
+        "Kuliner Bireuen yang paling terkenal adalah sate matang yang merupakan sate daging sapi atau kambing yang dibakar yang pada awalnya berasal dari kota Matang Glumpang Dua. "
+        "Makanan khas Kota Langsa yang sangat terkenal hingga ke seluruh Indonesia adalah Sop Sumsum yaitu berupa sop tulang daging sapi yang berisi sumsum di dalam tulangnya dan tulang daging sapi tersebut telah dipotong untuk dapat dinikmati sumsumnya menggunakan sedotan atau menuangnya langsung ke atas piring. "
+
+    </string>
+    <string name="makananaceh4">
+        "Berikut Makanan Khas Aceh lainnya: \n"
+            "1. Manisan pala \n"
+            "2. Sanger \n"
+            "3. Pisang Sale \n"
+            "4. Kembang loyang \n"
+            "5. Lepat \n"
+            "6. Rujak Aceh Samalanga \n"
+            "7. Keumamah \n"
+            "8. Kue Bhoi \n"
+            "9. Bohromrom \n"
+            "10. Meuseukat \n"
+
+    </string>
+    <string name="pakaianaceh">
+
+        "\t Tahukah Anda, pakaian adat Aceh merupakan peninggalan dari sejarah Kerajaan Perlak dan Kerajaan samudera Pasai. Untuk pakaian adat pria dikenal dengan nama baju Linto Biro, sedangkan untuk pakaian adat wanitanya dikenal dengan nama Daro Buro. "
+        " Pakaian adat Aceh ini biasanya digunakan pada saat-saat istimewa saja, seperti upacara adat atau acara-acara pemerintahan lainnya. Pakaian adat pria sendiri merupakan perpaduan dari beberapa bagian. Mulai dari bagian atas yang disebut Meukasah dan celana atau bagian bawahannya disebut cekak musang atau ada juga yang menyebutnya dengan nama celana sileuweu."
+        " Sedangkan untuk pakaian adat wanitanya merupakan perpaduan dari baju atasan yang berbentuk baju kurung berlengan panjang dengan kerah baju yang bergaya seperti kerah baju pakaian China. Sedangkan bagian bawahnya juga mengenakan celana cekak musang. Pakaian adat Aceh yang merupakan salah satu dari 10 kebudayaan Aceh ini biasa dikenakan dalam pertunjukan panggung di acara bergengsi dengan jajaran pakaian adat lainnya untuk memperkenalkan keanekaragaman budaya bangsa yang wajib dilestarikan."
+
+    </string>
+    <string name="tariaceh">
+        "\t Tari Saman merupakan salah satu media untuk pencapaian pesan (dakwah). Tarian ini mencerminkan pendidikan, keagamaan, sopan santun, kepahlawanan, kekompakan dan kebersamaan. "
+        " Sebelum saman dimulai yaitu sebagai mukaddimah atau pembukaan, tampil seorang tua cerdik pandai atau pemuka adat untuk mewakili masyarakat setempat (keketar) atau nasihat-nasihat yang berguna kepada para pemain dan penonton. "
+        " Lagu dan syair pengungkapannya secara bersama dan berkesinambungan, pemainnya terdiri dari pria-pria yang masih muda-muda dengan memakai pakaian adat. Penyajian tarian tersebut dapat juga dipentaskan, dipertandingkan antara grup tamu dengan grup sepangkalan (dua grup). Penilaian dititik beratkan pada kemampuan masing-masing grup dalam mengikuti gerak, tari dan lagu (syair) yang disajikan oleh pihak lawan."
+
+    </string>
+
+
+    <string name="bangka">  KEPULAUAN BANGKA BELITUNG</string>
+    <string name="bangka1">
+        "\t Nama: Kepulauan Bangka Belitung | Pulau: Sumatera | Ibukota: Pangkal Pinang \n\n"
+        "\t Gubernur: Eko Maulana Ali | Wakil Gubernur: Rustam Effendi (sejak 7 Mei 2012) \n\n"
+        "\t Kode BPS: 19 | Kode ISO: ID-BB | Kode kendaraan: BN \n\n"
+        "\t Kode telepon: 0715-0719 | Kode pos: 33111-33791 \n\n"
+        "\t Luas: 16.424,14 km2 | Populasi: 1.043.456 jiwa | Kepadatan: 63.53 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 6 kabupaten dan 1 kota, 135 kecamatan, 1.422 desa/kelurahan \n\n"
+        "\t Semboyan: Serumpun Sebalai; Bahasa Indonesia: dari darah yang sama, dari tempat yang sama \n\n"
+    </string>
+
+    <string name="rumahbangka">
+        "Rumah Adat khas Bangka Belitung bernama Rumah Panggung. Rumah ini bercirikan khas Melayu seperti yang ada di daerah-daerah pesisir Sumatera serta Malaka. Rumah panggung terbuat dari kayu, bambu atau rotan. Ada 9 tiang yang digunakan untuk mendirikan bangunan ini berdasarkan falsafah 9 tiang yang dipercaya masyarakat di Bangka Belitung ini. Tiang yang pertama kali dibangun yaitu tiang utamanya terletak ditengah bangunan. Sebagai atapnya ditutup menggunakan daun rumbia dan model atap sebagian berarsitektur Terpancung. Sedangkan dindingnya menggunakan kulita kayu atau pelepah. Sebagian dari atap sisi bangunan dengan arsitektur ini terpancung. "
+    </string>
+    <string name="pakaianbangka">
+        "Pakaian adat pernikahan mempelai laki-laki Bangka Belitung mengenakan Jubah panjang sebatas betis kaki berwarna merah yang terbuat dari bahan beludru disertai hiasan manik-manik dan pakaian bawahnya memakai celana. Pada bahu sebelah kanan diselempangkan sebuah kain. Di kepala dikenakan sorban sebgai penutup kepala ( sungkon ) dan sandal Arab sebagai alas kakinya."
+    </string>
+    <string name="pakaianbangka1">
+        "Sedangkan pakaian adat pengantin wanita mengenakan baju kurung berwarna merah berbahan beludru dan memakai kain tenun asli Bangka yang disebut dengan kain cual. Pada dada dihiasi dengan penutup dada atau teratai dan dilengkapi hiasan Ronce Melati. Dan untuk hiasan kepala dikenakan Paksian yang meliputi hiasan-hiasan Kembang Goyang, Kembang Cempaka, Gelang, Daun Bambum, Anting Panjang, Sari Bulan, pending untuk dipinggang dan lain sebagainya"
+    </string>
+    <string name="senjatabangka">
+        "Parang dan Kedik merupakan senjata khas dari Kepulauan Bangka Belitung yang walaupun dapat ditemui juga di daerah lain di Indonesa, akan tetapi senjata dari Bangka Belitung memiliki ciri khas tersendiri"
+    </string>
+    <string name="makananbangka">
+        "Bangka Belitung memiliki jenis makanan ringan yang sebagian besar dihasilkan dari produk makanan laut. Beberapa diantaranya: \n"
+
+        "\t 1.    Kempelang atau kerupuk yang terbuat dari udang, cumi atau ikan yang diberi bumbu, dibuat menjadi empek2, kemudian dikeringkan dengan dijemur dan digoreng. Ada juga kempelang yang dipanggang. Selain itu ada kempelang pasir seperti yang tertera di gambar yang sedikit berbeda dari kempelang pada umumnya dan memiliki sambel belacan. \n"
+        "\t 2.    Rintak Sagu \n"
+        "\t 3.    Getas/ kretek adalah kerupuk ikan atau udang yang dibuat berbentuk bulat atau silinder. \n"
+        "\t 4.    Martabak Manis disebut juga Hoklo-pan (harfiah kue dari Hok-lo). \n"
+        "\t 5.    Lempuk sejenis dodol yang terbuat dari durian atau cempedak. \n"
+        "\t 6.    Siput Gung Gung / Siput Gong Gong sejenis camilan yang terbuat dari siput yang digoreng keris. \n"
+        "\t 7.    Dodol/Jelinak Dodol khas Bangka berbeda dengan dodol daerah lain, warnanya lebih hitam dan lebih lengket dari daerah lain. Sedangkan jelinak adalah sejenis dodol tetapi sedikit terasa pedas dan hangat bila dimakan. \n"
+        "\t 8.    Kue Citak Satu Kue khas Bangka yang sangat susah dibuat, berwarna putih, rasanya manis, dan biasanya mempunyai cetakan yang rumit. Kue ini terbuat dari kacang kedelai. \n"
+        "\t 9.    Kue Jungkong kue dengan serat yang halus dan lembut seperti puding terdiri dari lapisan atas berwarna putih, lapisan tengah berwarna hijau (pandan), lapisan berikutnya gula kabung (gula aren) dan biasanya dicetak di dalam gelas atau mangkuk kecil. \n"
+    </string>
+    <string name="taribangka">
+        "Berikut merupakan Tarian Khas Bangka Belitung: \n"
+        "\t 1.    Tari Campak \n"
+        "\t 2.    Tari Sepen \n"
+        "\t 3.    Tari Men Sahang Lah Mirah \n"
+        "\t 4.    Tari Beripat \n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="sumut"> SUMATERA UTARA</string>
+    <string name="sumut1">
+        " \t   Nama: Sumatera Utara | Pulau: Sumatera | Ibukota: Medan \n\n"
+        " \t   Gubernur: Gatot Pujo Nugroho | Wakil Gubernur: Tengku Erry Nuradi (sejak 16 Juni 2013) \n\n"
+        " \t   Kode BPS: 12 | Kode ISO: ID-SU | Kode kendaraan: BB, BK \n\n"
+        " \t   Kode telepon: 0620-0639, 0601 | Kode pos: 20111-22998 \n\n"
+        " \t   Luas: 72.981,23 km2 | Populasi: 12.982.204 jiwa | Kepadatan: 177.88 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 25 kabupaten dan 8 kota, 402 kecamatan, 5.867 desa/kelurahan \n\n"
+        " \t   Semboyan: Mar Sipature Hutana Be(Bahasa Batak); Bahasa Indonesia: "berlomba lomba membangun daerah" "
+    </string>
+    <string name="rumahsumut">
+        " \t   Rumah adat Sumatera Utara dinamakan Parsakitan dan Jabu Bolon. Jabu Parsakitan adalah rumah adat di daerah Batak Toba, "
+        "tempat penyimpanan barang-barang pusaka dan tempat penyimpanan barang-barang pusaka dan tempat pertemuan untuk "
+        "membicarakan hal-hal yang berhubungan dengan penyelenggaraan adat. \n\n"
+        " \t   Jabu Bolon adalah rumah pertemuan suatu keluarga besar. Berbentuk panggung dan ruang atas untuk tempat tinggal "
+        "bersama-sama, Tempat tidur lebih tinggi dari dapur. "
+    </string>
+    <string name="pakaiansumut">
+        " \t   Di daerah Tapanuli Utara tenunan tradisionalnya disebut ulos. Kain ulos itu terdiri dari beberapa macam yang harga dan fungsinya berbeda-beda. "
+        "Misalnya: Ulos Godang, Sibolang, Mangiring, Sitoluntuho, Ragi Hidup, Sadum, dan Ragi Hotang. \n\n"
+        " \t   Pada upacara adat kaum pria mengenakan tutup kepala yang disebut sabe-sabe dari ulos mangiring. "
+        "Di bahunya disampirkan Ulos Ragi Hotang dan mengenakan kain sarung. Kaum wanitanya menegenakan Ulos Sadum yang disampirkan di kedua bahunya dililit "
+        "dengan Ulos Ragi Hotang dan mengenakan sarung suji."
+    </string>
+    <string name="senjatasumut">
+        " \t   Piso surut adalah sejenis belati dan merupakan senjata tradisional di Tanah Karo, Sumatera Utara. "
+        "Piso gaja dompak, berupa sebilah keris panjang merupakan lambang penting pemerintahan Raja Si Singamangaraja. "
+        "Senjata ini hanya boleh diguanakan oleh raja saja. Senjata tradisional yang biasa digunakan oleh masyarakat umum adalah hujur sejenis tombak dan podang sejenis pedang panjang. "
+    </string>
+    <string name="makanansumut">
+        " \t   Adalah makanan khas tradisional Batak, yang berasal dari Tapanuli. Sebenarnya bahan-bahan untuk membuat sambal tuktuk tidak berbeda dengan bahan sambal-sambal lainnya, sederhana saja. \n\n"
+        " \t   Yang membuat sambal ini sedikit lebih berbeda dengan sambal yang lain adalah andalimannya. Biasanya sambal tuktuk dicampur dengan ikan aso-aso (sejenis ikan kembung yang sudah dikeringkan), tapi jika tidak menemukan ikan aso-aso bisa diganti dengan ikan teri tawar. "
+    </string>
+    <string name="tarisumut">
+        "a. Tari Serampang Dua Belas, sebuah tari melayu dengan irama joged. Diiringi musik dengan pukulan gendang ala Amerika Latin. "
+        "Serampang Dua Belas merupakan tari pergaulan, baik bagi muda-mudi maupun orang tua. \n\n"
+        "b. Tari Tor-tor, sebuah tari dari daerah Batak dengan latar belakang falsafah peradatan dan ditarikan dalam suasana khusuk. \n\n"
+        "c. Tari Marsia Lapari, tari garapan ini menggambarkan kegiatan gadis-gadis Sumatera Utara yang senantiasa saling membantu dalam menggarap sawah. "
+        "Olahan tari didasarkan unsur gerak tari daerah Tapanuli Selatan yang diramu dengan unsur daerah lain, dengan iringan musik gondang sembilah. \n\n"
+        "d. Tari Manduda, suatu bentuk tarian rakyat Simalungun yang bersuka ria di masa panen padi."
+    </string>
+    <string name="sumbar"> SUMATERA BARAT</string>
+    <string name="sumbar1">
+        " \t   Nama: Sumatera Barat | Pulau: Sumatera | Ibukota: Padang \n\n"
+        " \t   Gubernur: Irwan Prayitno | Wakil Gubernur: Nasrul Abit (sejak 12 Februari 2016) \n\n"
+        " \t   Kode BPS: 13 | Kode ISO: ID-SB | Kode kendaraan: BA \n\n"
+        " \t   Kode telepon: 0751-0759 | Kode pos: 25111-27779 \n\n"
+        " \t   Luas: 42.297,30 km2 | Populasi: 4.846.909 jiwa | Kepadatan: 114.59 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 12 kabupaten dan 7 kota, 175 kecamatan, 1.858 desa/kelurahan \n\n"
+        " \t   Semboyan: Tuah Sakato (Bahasa Minangkabau); Bahasa Indonesia: "Manfaat kesepahaman" "
+    </string>
+    <string name="rumahsumbar">
+        " \t   Rumah adat Sumatera Barat dinamakan Rumah Gadang. Rumah Gadang di Sumatera Barat adalah untuk tempat tinggal. "
+        "Rumah tersebut dapat dikenali dari tonjolan atapnya yang mencuat ke atas yang bermakna menjurus kepada Tuhan Yang Maha Esa. \n\n"
+        " \t   Tonjolan itu dinamakan gojoang yang banyaknya sekitar 4-7 buah. Rumah Gadang mempunyai 2-3 lumbung padi antara lain Si Bayo-bayo yang artinya persedian padi bagi keluarga dari rantau. "
+        "Si Tinjau Lauik, padinya untuk diberikan kepada yang tidak mampu dan Si Tangguang Litak, padinya khusus bagi yang punya rumah. "
+    </string>
+    <string name="pakaiansumbar">
+        " \t   Kaum pria dari Sumatera Barat memakai tutup kepala yang disebut saluak. Memakai baju model teluk belanga yang berlengan agak pendek dan melebar ke ujung. "
+        "Selembar kain menyelempang di bahu dan sebilah keris terselip di depan perut. Ia juga memakai celana panjang dengan kain songket melingkar di tengah badan. \n\n"
+        " \t   Sedangkan wanitanya memakai tutup kepala bergonjang yang disebut tangkuluak tanduak, baju kurung dengan kain songket menyelempang di bahu dan berkain songket. "
+        "Perhiasan yang dipakainya adalah anting-anting, kalung bersusun dan gelang pada kedua belah tangan, pakaian ini berdasarkan adat Minangkabau. "
+    </string>
+    <string name="senjatasumbar">
+        " \t   Senjata tradisional yang amat terkenal di Sumatera Barat adalah Karih yang merupakan senjata tikam. "
+        "Senjata tikam lainnya adalah belati, disamping tombak, ruduih yang disebut juga golok atau ladiang. "
+        "Tombaknya yang berujung tiga disebut piarit."
+    </string>
+    <string name="makanansumbar">
+        " \t   Rendang daging adalah masakan salah satu makanan khas adat sumatra barat dan makan tradisional bersantan ini dengan daging sapi sebagai bahan utamanya. "
+        "Masakan khas dari Sumatera Barat, Indonesia ini sangat digemari di semua kalangan masyarakat baik itu di Indonesia sendiri ataupun di luar negeri. \n\n"
+        " \t   Selain daging sapi, rendang juga menggunakan kelapa (karambia), dan campuran dari berbagai bumbu khas Indonesia di antaranya Cabai (lado), "
+        "lengkuas, serai, bawang dan aneka bumbu lainnya yang biasanya disebut sebagai (Pemasak). \n\n"
+        " \t   Pada tahun 2011 melalui jajak pendapat internet yang melibatkan 35.000 responden yang digelar CNN International, "
+        "menobatkan Rendang sebagai hidangan peringkat pertama dalam daftar ‘World’s 50 Most Delicious Foods’. "
+    </string>
+    <string name="tarisumbar">
+        "a.    Tari Piriang, sebuah tarian tradisional yang melambangkan suasana kegotongroyongan rakyat dalam menunaikan tugasnya. "
+        "Siang hari mengerjakan sawah ladang dan malam harinya bersukaria bersama-sama. \n\n"
+        "b.    Tari Payung, ditarikan oleh pasangan muda-mudi dengan payung tangan, "
+        "sang pria selalu melindungi kepala sang wanita, sebuah perlambang perlindungan lelaki terhadap wanita. \n\n"
+        "c.    Tari Kiek Gadih Minang, merupakan tari kreasi yang mendasarkan garapannya pada unsur-unsur gerak tari tradisi Minang. "
+        "Tari kelompok ini menggambarkan kesibukkan gadis-gadis Minang di waktu subuh selagi bersiap-siap menuju mesjid. "
+    </string>
+    <string name="riau"> RIAU</string>
+    <string name="riau1">
+        " \t   Nama: Riau | Pulau: Sumatera | Ibukota: Pekanbaru \n\n"
+        " \t   Gubernur: Mambang Mit (pejabat sementara) | Wakil Gubernur: kosong (sejak 19 Juni 2013) \n\n"
+        " \t   Kode BPS: 14 | Kode ISO: ID-RI | Kode kendaraan: BM \n\n"
+        " \t   Kode telepon: 0760-0769, 0624 | Kode pos: 28111-29566 \n\n"
+        " \t   Luas: 94.560 km2 | Populasi: 5.538.367 jiwa | Kepadatan: 58.57 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 10 kabupaten dan 2 kota, 151 kecamatan, 1.584 desa/kelurahan \n\n"
+        " \t   Semboyan: Bumi Bertuah Negeri Beradat "
+    </string>
+    <string name="rumahriau">
+        " \t   Rumah adat daerah Riau bernama Selaso Jatuh Kembar. Rumah ini merupakan tempat tinggal para datuk, pemangku adat. "
+        "Ruangan rumah terdiri dari: ruangan besar yang dipergunakan untuk tempat tidur, ruang bersila, anjungan dan dapur. \n\n"
+        " \t   Tiang-tiang rumah, sirip atap, loteng, tangga dan alasnyasemua berhiasan ukiran. "
+        "Ukirannya mempunyai corak yang berbeda-beda antara yang satu dengan yang lainnya. Ruang adat ini dilengkapi pula dengan "
+        "Balai Adat yang dipergunakan untuk untuk pertemuan dan musyawarah adat.
+    </string>
+    <string name="pakaianriau">
+        " \t   Pakaian adat yang dipakai kaum pria dari Riau adalah tutup kepala atau destar, baju model teluk belanga dengan kain yang melingkar di tengah badan dan bercelana panjang yang disuji. \n\n"
+        " \t   Pakaian adat yang dikenakan wanitanya adalah baju kurung yang disuji (dibordir), berselempang kain bersuji serta berkain songket. Perhiasan yang dipakainya adalah anting-anting, gelang dan cincin. "
+
+    </string>
+    <string name="senjatariau">
+        " \t   Senjata Tradisional yang terkenal dinamakan Pedang Jenawi. Pedang ini biasanya dipergunakan oleh panglima perang, "
+        "sedangkan para prajuritnya memakai klewang. Selain klewang para prajurit yang dipersenjatai pula dengan tombak. "
+    </string>
+    <string name="makananriau">
+        " \t   Gulai ika Patin merupakan salah satu ikon makanan khas Riau yang cukup terkenal. Keberadaan kota Pekanbaru yang diapit oleh 4 sungai Siak, Sungai Rokan, Sungai Kampar dan Sungai Indragiri memungkinkan Pekanbaru mendapatkan suplai ikan patin yang berlimpah. "
+        "Kekhasan gula ikan patin terletak pada kuahnya yang berwarna kuning dengan potongan-potongan ikan patin yang besar. \n\n"
+        " \t   Daging ikan yang katanya rendah korestrol ini lembut dengan rasa yang amat gurih apalagi jika bumbunya meresap smpai kedagingnya. "
+        "Aroma masakannyapun benar-benar mampu menggugah selera siapapun yang ada didekatnya. "
+    </string>
+    <string name="taririau">
+        " \t   Tari Persembahan merupakan salah satu tarian adat riau yang biasanya digunakan untuk menyambut tamu atau pembukaan acara-acara tertentu. "
+        Tarian ini menggambarkan bahwa orang melayu Riau menghargai hubungan persahabatan dan kekerabatan. "
+    </string>
+    <string name="kepriau"> KEPULAUAN RIAU</string>
+    <string name="kepriau1">
+        " \t   Nama: Kepulauan Riau | Pulau: Sumatera | Ibukota: Tanjung Pinang \n\n"
+        " \t   Gubernur: Muhammad Sani | Wakil Gubernur: Muhammad Soerya Respationo (sejak 19 Agustus 2010) \n\n"
+        " \t   Kode BPS: 21 | Kode ISO: ID-KR | Kode kendaraan: BP \n\n"
+        " \t   Kode telepon: 0771-0779 | Kode pos: 29111-29875 \n\n"
+        " \t   Luas: 8.084,01 km2 | Populasi: 1.274.848 jiwa | Kepadatan: 157.7 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 5 kabupaten dan 2 kota, 57 kecamatan, 340 desa/kelurahan \n\n"
+        " \t   Semboyan: Berpancang Amanah Bersauh Marwah; Bahasa Indonesia: memperjuangkan mandat, memegang teguh tradisi "
+    </string>
+    <string name="rumahkepriau">
+        " \t   Rumah adat Kepulauan Riau lainnya yaitu Belah Bubung. Dikenal dengan sebutan rumah Rabung atau rumah Bumbung Melayu. "
+        "Nama rumah Belah Bubung diberikan oleh orang Melayu karena bentuk atapnya terbelah. Disebut rumah Rabung karena atapnya mengunakan perabung. \n\n"
+        " \t   Sedangkan nama rumah Bubung Melayu diberikan oleh orang-orang asing, khususnya Cina dan Belanda, "
+        "karena bentuknya berbeda dengan rumah asal mereka, yaitu berupa rumah Kelenting dan Limas."
+    </string>
+    <string name="pakaiankepriau">
+        " \t   Pakaian pria yang digunakan pria disebut baju teluk belanga. Baju ini dipadankan dengan celana panjang yang disuji. "
+        "Sehelai kain diikatkan ditengah badan hamper menyentuh lutut. Bagian kepala ditutup dengan destar atau tanjak. "
+        "Pada hari pernikahan pengantin pria memakai jubah yang dilengkapi celana panjang, kain selempang dan ikat pinggang. "
+        "Pengantin ini memakai  tutup kepala yg disebut ketu. \n\n"
+        " \t   Wanita memakai atasan berupa baju kurung dan kain selempang yang telah disuji. "
+        "Bawahannya adalah kain songket dengan motif yang cantik. Pakaian ini dilengkapi dengan perhiasan berupa anting, "
+        "gelang dan cincin. Pakaian pengantin dilengkapi baju telepuk dan kain cual. Sanggul kepala dihiasi tusuk cempaka emas "
+        "dan penutup dahi atau pasiani. Perhiasan lain yang biasa digunakan adalah pending gelang dan cincin terbuat dari emas. "
+    </string>
+    <string name="senjatakepriau">
+        " \t   Tumbuk Lada merupakan sejenis senjata tradisional dari daerah Kepulauan Riau yang digunakan para panglima perang "
+        "dalam pertempuran. Selain itu, Tumbuk Lada atau disebut Badik Tumbuk ini pada zaman dulu juga menjadi salah satu "
+        "kelengkapan pakaian adat selain keris di Kepulauan Riau, Deli, Siak dan Semenanjung Tanah Melayu. \n\n"
+        " \t  Panjang pedang ini mencapai satu meter. Pada pangkal sarung Tumbuk Lada terdapat bonjolan bundar yang selalunya "
+        "dihias dengan ukiran yang dipahat. Sarung senjata ini selalunya dilapis dengan kepingan perak yang diukir dengan pola-pola "
+        "rumit.Panjang bilah tumbuk lada sekitar 27 cm hingga 29 cm. Lebar bilahnya sekitar 3.5 cm hingga 4 cm. "
+        "Dari tengah bilah sampai ke pangkalnya terdapat alur yang dalam."
+    </string>
+    <string name="makanankepriau">
+        " \t   Gong Gong atau Siput merupakan makanan khas masyarakat di Kepulauan Riau. Makanan ini biasanya diolah dengan cara direbus lalu dimakan dengan sambal khusus. "
+        "Gong gong tidak hanya terkenal di Kepri tetapi juga sudah dikenal hingga ke Malaysia, Singapura, Korea, Thailand hingga India karena rasa dan aromanya yang khas. \n\n"
+        " \t   Di Kepulauan Riau, hewan laut ini banyak ditemukan di perairan Desa Lobam, Tanjung Uban, Pulau Bintan dan Batam. "
+        "Kandungan gizi Gong Gong sangat tinggi, bahkan sebagian orang percaya makanan Gong Gong ini mampu meningkatkan pertumbuhan "
+        "hormon dan meningkatkan vitalitas"
+    </string>
+    <string name="tarikepriau">
+        " \t   Memperkenalkan kepada anda salah satu tarian tradisional dari Kepulauan Riau yakni Tari Melemang. "
+        "Menurut sejarahnya tari Melemang berasal dari Tanjung Pisau Negeri Bentan Penaga, kecamatan Bintan. "
+        "Tarian ini pertama kali dimainkan sekitar abad ke-12. Ketika itu, tari Melemang hanya dimainkan di "
+        "istana Kerajaan Melayu Bentan yang pusatnya berada dibukit batu, Bintan. \n\n"
+        " \t   Tarian ini hanya dipersembahkan bagi Raja ketika sang Raja sedang beristirahat, karena merupakan istana "
+        "yang ditarikan oleh para dayang kerajaan. Namun setelah kerajaan Bentan mengalami keruntuhan tari Melemang berubah "
+        "menjadi tarian hiburan rakyat.
+    </string>
+    <string name="jambi"> JAMBI</string>
+    <string name="jambi1">
+        " \t   Nama: Jambi | Pulau: Sumatera | Ibukota: Jambi \n\n"
+        " \t   Gubernur: Zumi Zola Zulkifli | Wakil Gubernur: Fachrori Umar (sejak 2015) \n\n"
+        " \t   Kode BPS: 15 | Kode ISO: ID-JA | Kode kendaraan: BH \n\n"
+        " \t   Kode telepon: 0740-0748 | Kode pos: 36111-37573 \n\n"
+        " \t   Luas: 53.509,19 km2 | Populasi: 3.092.265 jiwa | Kepadatan: 57.79 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 9 kabupaten dan 2 kota, 65 kecamatan, 562 desa/kelurahan \n\n"
+        " \t   Semboyan: Sepucuk Jambi Sembilan Lurah "
+    </string>
+    <string name="rumahjambi">
+        " \t   Rumah adat Jambi dinamakan Rumah Panggung dengan model kajang lako. Rumah adat tersebut merupakan rumah tinggal yang terbagi dalam 8 ruangan. "
+        "Ruangan tersebut adalah: \n\n"
+        " \t   Pertama Jogan, merupakan tempat istirahat dan menaruh air. \n\n"
+        " \t   Kedua Serambi Depan, merupakan ruangan untuk tamu laki-laki juga ruangan untuk mengaji anak-anak lelaki. \n\n"
+        " \t   Ketiga, Serambi Dalam yang merupakan tempat tidur bagi anak-anak lelaki. \n\n"
+        " \t   Keempat, Ameben Melintang yang merupakan kamar pengantin. Kelima, Serambi Belakang yang merupakan kamar tidur bagi anak-anak gadis. \n\n"
+        " \t   Keenam, Laren yang merupakan tempat menerima tamu wanita dan kegiatan anak-anak remaja putri. \n\n"
+        " \t   Ketujuh, Garang yang merupakan ruangan untuk menumbuk padi sekaligus tempat untuk menampung air. \n\n"
+        " \t   Kedelapan adalah dapur. "
+        "Ada pula ruangan yag disebut Tengganai, yaitu ruangan yang digunakan untuk pertemuan kaum/ninik mamak. "
+    </string>
+    <string name="pakaianjambi">
+        " \t   Pria dari Jambi memakai mahkota dan kalung bersusun. Ia juga memakai pending dengan keris terselip di depan perut serta gelang emas pada kedua belah lengan dan tangan. "
+        "Baju dan celananya bersuji dengan model yang khas dan kain songket melingkar di tengah badan. \n\n"
+        " \t   Pakaian yang dipakai wanitanya serupa benar dengan sang pria seperti mahkota, kalung bersusun, pending serta gelang emas pada kedua belah lengan, tangan dan kaki. "
+        "Ia juga memakai baju kurung serta kain songket. Pakaian ini dipakai untuk upacara pernikahan. "
+    </string>
+    <string name="senjatajambi">
+        " \t   Keris merupakan senjata tradisional di Jambi. Keris yang bentuknya lurus, dinamakan badik tumbuk lada. "
+        "Keris ini banyak dan terdapat dimana-mana. Hulunya terbuat dari kayu atau tanduk dan wilayahnya lurus. \n\n"
+        " \t   Selain itu terdapat pula keris dengan wilahan yang berlekuk. Senjata lainnya adalah tombak, pedang dan sumpit. "
+    </string>
+    <string name="makananjambi">
+        " \t   Tempoyak adalah makanan khas Jambi yang menggunakan bahan utama berupa durian yang difermentasi. "
+        "Setelah difermentasi, durian akan mengeluarkan aroma yang menyengat dengan cita rasa yang khas.  \n\n"
+        " \t   Tempoyak adalah bumbu yang biasa disajikan sebagai aluk dan dimakan bersama nasi. Orang Jambi juga tak jarang menggunakan tempoyak sebagai bahan campuran dalam membuat sambal. "
+        "Tempoyak mempunyai cita rasa asam yang khas dengan tekstur daging buah yang lembek. "
+        "Di tanah Sumatera, tempoyak tak hanya terkenal di Jambi, tetapi juga di Palembang dan Lampung. "
+        "Bahkan, di luar pulau seperti Kalimantan, tempoyak juga banyak dijual terutama saat musim durian tiba. "
+    </string>
+    <string name="tarijambi">
+        "a.    Tari Sekapur Sirih, merupakan tari persembahan. Tari adat Jambi ini banyak persamaannya dengan tari Melayu. \n\n"
+        "b.    Tari Selampit Delapan, merupakan tari pergaulan muda-mudi dan sangat digemari di daerah Jambi. \n\n"
+        "c.    Tari Rangguk, tarian Jambi yang lincah untuk menyambut tamu. \n\n"
+        "d.    Skin adalah sejenis keris kecil. Sesuai dengan namanya, tari "skin" menggambarkan ketangkasan kaum wanita dalam ulah keprajuritan. "
+        "Tari ini merupakan tari kreasi yang tetap memanfaatkan perbendaharaan gerak tari tradisi. "
+
+    </string>
+    <string name="sumsel"> SUMATERA SELATAN</string>
+    <string name="sumsel1">
+        " \t   Nama: Sumatera Selatan | Pulau: Sumatera | Ibukota: Palembang \n\n"
+        " \t   Gubernur: Alex Noerdin | Wakil Gubernur: Ishak Mekki (sejak 7 November 2013) \n\n"
+        " \t   Kode BPS: 16 | Kode ISO: ID-SS | Kode kendaraan: BG \n\n"
+        " \t   Kode telepon: 0711-0714, 0730-1735, 0702 | Kode pos: 30111-32387 \n\n"
+        " \t   Luas: 85.679,42 km2 | Populasi: 7.450.394 jiwa | Kepadatan: 86.96 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 15 kabupaten dan 5 kota, 212 kecamatan, 3.081 desa/kelurahan \n\n"
+        " \t   Semboyan: Bersatu Teguh"
+    </string>
+    <string name="rumahsumsel">
+        " \t   Rumah adat Sumatera Selatan bernama Rumah Limas, Ia merupakan rumah panggung, untuk tempat tinggal para bangasawan. "
+        "Rumah Limas berjenjang lima dengan bermakna Lima Emas, yaitu keagungan, rukun dan damai, sopan santun, aman dan subur, "
+        "kemudian makmur dan sejahtera. Pintu Gerbang Emas harus ada pada setiap RUmah Limas. "
+    </string>
+    <string name="pakaiansumsel">
+         " \t   Pria Sumatera Selatan mamakai pakaian adat berupa mahkota , kalung bersusun dengan baju yang khas. "
+         "Ia juga memakai celana panjang dan kain songket pada bagian tengah badan. \n\n"
+         " \t   Wanitanya memakai pakaian yang mirip dengan prianya, yaitu bermahkota, kalung susun, "
+        "pending dan gelang pada kedua belah tangan. Ia jua memakai kain songket yang melingkar pada "
+        "bagian tengah badan serta berkain songket. Pakaian ini dipakai untuk upacara pernikahan. "
+    </string>
+    <string name="senjatasumsel">
+        " \t   Senjata tradisional yang terkenal di Sumatera Selatan adalah keris. Keris situ ada yang berlekuk 7, 9 atau 13, "
+        "yaitu dengan jumlah ganjil. \n\n"
+        " \t   Selain keris ada pula senjata lainnya seperti tombak, pedang, dan badik. Tombak Sumatera Selatan yang bermata tiga dinamakan trisula. "
+    </string>
+    <string name="tarisumsel">
+        "a.    Tari Tanggai, merupakan sebuah tarian dalam menyambut para tamu disertai upacara kebasaran adat. \n\n"
+        "b.    Tari Putri Bekhusek, artinya sang putri yang sedang bermain. Tari ini sangat popular di Kabupaten Ogan Komering Ulu dan melambangkan kemakmuran daerah Sumatera Selatan. \n\n"
+        "c.    Tari Menyadap Karet, tari menggambarkan canda-ria muda-mudi Sumatera Selatan selagi menyadap karet, yang tak jarang menuntunmereka ke jenjang perkawinan. "
+        "Tari yang diperkaya dengan unsur gerak tradisi ini berkenan sebagai tari pergaulan yang menimbulkan suasana gembira. "
+    </string>
+    <string name="makanansumsel">
+        " \t   Pempek adalah sejenis makanan ringan yang terbuat dari tepung dan olahan daging ikan. "
+        "Pempek sendiri disajikan bersama potongan timun kecil-kecil, dengan kuah cuko. \n\n"
+        " \t   Pempek sebenarnya memiliki beragam jenis, salah satu jenis yang paling terkenal adalah pempek kapal selam. "
+        "Anda dapat dengan mudah menemukan pempek di seluruh penjuru Sumatera Selatan sekalipun. "
+    </string>
+    <string name="bengkulu"> BENGKULU</string>
+    <string name="bengkulu1">
+        " \t   Nama: Bengkulu | Pulau: Sumatera | Ibukota: Bengkulu \n\n"
+        " \t   Gubernur: Ridwan Mukti | Wakil Gubernur: Rohidin Mersyah (sejak 12 Februari 2016) \n\n"
+        " \t   Kode BPS: 17 | Kode ISO: ID-BE | Kode kendaraan: BD \n\n"
+        " \t   Kode telepon: 0736-0739, 0732 | Kode pos: 38113-39374 \n\n"
+        " \t   Luas: 19.788,70 km2 | Populasi: 1.715.518 jiwa | Kepadatan: 86.69 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 9 kabupaten dan 1 kota, 154 kecamatan, 1.505 desa/kelurahan \n\n"
+        " \t   Semboyan: - "
+    </string>
+    <string name="rumahbengkulu">
+        " \t   Rumah adat daerah Bengkulu dinamakan Rumah Rakyat. Rumah Rakyat merupakan rumah panggung yang terdiri dari 3 kamar yaitu, "
+        "kamar orang tua, kamar gadis, dan kamar bujang. "
+        "Kolong dibawahnya untuk pb venyimpanan kayu dapur dan barang lainnya. Pada piintu masuk ruang tengah terdapat gambar Buraq, "
+        "pertanda ketangguhan hati penduduknya menjalankan agama islam. \n\n"
+        " \t   Rumah Rakyat terbuat dari kayu meranti dan dilengkapi dengan tangga masuk dari semen. "
+        "Pada tiang depan rumah disebalah kiri biasanya terdapat tanduk kerbau. Hal ini menunjukkan bahwa yang punya runah pernah mengadakan upacara atau pesta perkawinan. "
+        "Jumlah tanduk sesuai pula dengan banyaknya upacara atau pesta yang telah diadakan."
+    </string>
+    <string name="pakaianbengkulu">
+        " \t   Pakaian adat yang dipakai kaum pria dari daerah Bengkulu adalah mahkota deangan gunjai-gunjainya (pita) serta baju model jas tertutup. "
+        "Ia juga memakai kalung bersusun, kain songket yang melingkar di pinggang dan celana sebatas lutut. \n\n"
+        " \t   Sedangkan wanitanya memakai baju kurung yang disuji dan berkain songket. Ia juga memakai mahkota, kalung bersusun serta gelang pada kedua belah tangan. "
+        "Pakaian ini dipakai untuk upacara pernikahan. "
+    </string>
+    <string name="senjatabengkulu">
+        " \t   Sewar adalah salah satu senjata tradisional Bengkulu yang berupa senjata tikam. Di daerah lain, "
+        "misalnya di Lampung senjata ini dikenal dengan nama Badik atau Badik Manna, atau di Jambi yang lebih dikenal dengan nama Badik tumbuk Lado. \n\n"
+        " \t   Hingga kini, para pemuda Bengkulu pedalaman masih sering menggunakan senjata ini. "
+        "Mereka kerap menyelipkan sewar di pinggangnya ketika main untuk menjaga diri. Bentuknya berupa sebilah pisau dengan satu mata yang tajam. "
+        "Ujungnya meruncing sehingga bisa pula digunakan sebagai senjata tusuk. Berikut adalah kenampakan dari senjata ini."
+    </string>
+    <string name="makananbengkulu">
+        " \t   Pendap ini merupakan salah satu makanan khas bengkulu bisa dibilang sejenis lauk karena terbuat dari ikan. "
+        "Dimasak dengan berbagai bumbu dan rempah seperti bawang putih, cabe giling, kencur, parutan kelapa muda. Bumbu-bumbu itu dimasukkan ke dalam daun talas, "
+        "baru kemudian masukkan ikannya. Pendap kemudian direbus selama kurang lebih 8 jam sampai ikan matang dan bumbu benar-benar meresap. "
+        "Makanan ini memiliki rasa yang gurih dan pedas. Cocok banget buat teman makan nasi yang masih hangat."
+    </string>
+    <string name="tarianbengkulu">
+        " \t   Tarian ini termasuk kedalam jenis tarian pergaulan yang umumnya ditampilkan oleh para penari pria dan wanita. "
+        "Menurut sejarahnya, Tari Adun dahulunya merupakan salah satu tarian tradisi dari masyarakat Bengkulu yang sering ditampilkan di acara adat, "
+        "terutama diacara pesta panen raya. \n\n"
+        " \t   Traian tradisional ini dilakukan sebagai bentuk ungkapan rasa syukur dari masyarakat terhadap hasil panen yang mereka dapatkan. "
+        "Diadalam acara tersebut biasanya akan diikuti oleh semua masyarakat, terutama para pemuda-pemudi. Konon katanya selain menjadi tarian pergaulan, "
+        "tarian tradisional i i juga menjadi media mencari pasangan hidup atau jodoh bagi para kaum muda."
+    </string>
+    <string name="lampung"> LAMPUNG</string>
+    <string name="lampung1">
+        Nama: Lampung | Pulau: Sumatera | Ibukota: Bandar Lampung
+Gubernur: Muhammad Rhido Ficardo | Wakil Gubernur: Bachtiar Basri (sejak 2 Juni 2014)
+Kode BPS: 18 | Kode ISO: ID-LA | Kode kendaraan: BE
+Kode telepon: 0721-0729 | Kode pos: 34111-35686
+Luas: 35.376 km2 | Populasi: 7.608.405 jiwa | Kepadatan: 215.07 jiwa/km2
+Pembagian administratif: 13 kabupaten dan 2 kota, 204 kecamatan, 2.361 desa/kelurahan
+Semboyan: Sang Bumi Ruwa Jurai (Bahasa Lampung); Bahasa Indonesia: "Rumah Tangga yang Agung"
+    </string>
+    <string name="rumahlampung">
+        Rumah adat daerah Lampung dinamakan Rumah Sesat. Rumah sesat tersebut digunakan untuk musyawarah tertinggi antara marga-marga. Jambat Agung atau Lorong Agung adalah nama tangga menuju Rumah Sesat sebagai perlambang marga Lampung. Di atas Lorong Agung terdapat 3 macam payung berwarna : putih, kuning, dan merah. Putih untuk tingkat marga, kuning untuk tingkat kampong, dan merah untuk tingkat suku
+    </string>
+    <string name="pakaianlampung">
+        Pria Lampung memakai pakaian adat berupa tutup kepala, baju jas dengan leher tertutup, celana panjang dan berkain songket yang melingkar di pinggang. Sebilah belati terselip didepan perut.
+
+Wanitanya memakai tutup kepala melebar dengan bentuk yang khas. Bajunya disebut kawai sadariah dan berkain songket. Perhiasan yang dipakainya adalah anting-anting, pending dan gelang pada kedua belah tangannya. Pakaian ini dipakai sewaktu menghadiri upacara adat dirumah orang tua atau mertua.
+    </string>
+    <string name="senjatalampung">
+        Senjata tradisioal Lampung, yang terkenal adalah Terapang. Ulu terapang terbuat dari kayu dengan ukiran kepala orang atau burung sebagai lambing keberanian. Senjata terkenal lainnya adalah payan, beladau, penduk, badik, dan keris.</string>
+    <string name="makananlampung">
+        Ikan yang biasa digunakan untuk membuat seruit adalah ikan sungai seperti baung, belide, layis, dan jenis ikan darat lainnya. Selain itu, ada tambahan lalapan untuk menambah kelezatan masakan ini.
+    </string>
+    <string name="tarianlampung">
+        a.    Tari Jangget, adalah tarian untuk upacara-upacara peradatan. Tarian ini melambangkan keluhuran budi dan susila rakyat Lampung.
+b.    Tari Melinting, merupakan sebuah tari berlatar belakang cerita rakyat Lampung. Menceritakan tentang kunjungan Sunan Gunung Jati keKEratuan Pugung. Sunan akhirnya jatuh hati kepada Putri Sinar Alam yang sedang menarikan tari Melinting.
+c.    Tari Negak Kayu Hagha, tari ini dianggap berdasarkan tradisi daerah Lampung. Keseluruhannya menggambarkan muda-mudi saat mereka bergembira ria mendirikan Kayu Hagha, permainan sejenis panjat pinang yang diadakan sehabis pesta perkawinan.
+d.    Tari Bedana, adalah tari pergaulan yang mengandung pengaruh seni dan budaya islam.
+    </string>
+
+    <string name="banten"> BANTEN</string>
+    <string name="banten1">
+        "\t Nama: Banten | Pulau: Jawa | Ibukota: Serang \n\n"
+        "\t Gubernur: Rano Karno | Wakil Gubernur: (sejak 11 Januari 2014) \n\n"
+        "\t Kode BPS: 36 | Kode ISO: ID-BT | Kode kendaraan: A, B \n\n"
+        "\t Kode telepon: 021, 0252-0257 | Kode pos: 15111-15820, 42111-42455 \n\n"
+        "\t Luas: 9.018,64 km2 | Populasi: 10.632.166 jiwa | Kepadatan: 1178.91 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 4 kabupaten dan 4 kota, 40 kecamatan, 348 desa/kelurahan \n\n"
+        "\t Semboyan: Iman Taqwa "
+    </string>
+    <string name="rumahbanten">
+        " \t Rumah adat Banten adalah rumah adat suku Baduy, oleh Karena itu pemerintah menetapkan nama rumah adat Banten adalah rumah Badui. "
+        "Rumah tradisional ini berupa panggung yang terbuat dari dari kerangka bambo, kayu nangka, kayu jati serta batang pohon kelapa dengan "
+        "beratapkan daun nyiur ataupun ilalang dan lantainya  yang terbuat dari pelepah bambu yang telah dibelah. "
+    </string>
+    <string name="pakaianbanten">
+        " \t   Pakaian adat Banten pada Pria mengenakan pakaian model baju koko dengan lehernya yang tertutup. "
+        "Serta pakaian bawahnya  dilengkapi celana panjang serta diikatkan dengan kain batiknya. "
+        "Pada bajunya dikenakan ikat pinggang dan diselipkan sebilah parang di ikat pinngang tersebut bagian depan. "
+        "Serta di bahu diselempengkan sehelai kain. \n\n"
+        " \t   Sedangkan pakaian adat Banten pada wanitanya, memakai baju adat kebaya serta kain batin sebagai bawahannya. "
+        "Pakaian ini juga diselempangkan sehelai kain di bahu dan dihiasi dengan bros kerajinan tangan pada bagian depan "
+        "kancing kebayanya. Pada rambut di sanggul dan dihiasi dengan kembang goyang berwarna keemasan. "
+    </string>
+    <string name="senjatabanten">
+        " \t  Gambar tersebut adalah senjata tradisional Banten, senjata tersebut diberi nama dengan nama senjata Golok, "
+        "yang mana senjata golok ini sering digunakan oleh jawara-jawara di wilayah Banten. \n\n"
+        " \t  Selain kerap digunakan oleh para jawara-jawara Banten, senjata yang bernama bedog ini merupakan salah satu "
+        "peralatan senjata yang sangat penting dalam kehidupan sehari-hari. \n\n"
+        " \t  Fungsi dari kegunaan bedog ini misalnya seperti menebang pohon, menebang bambu, membelah kelapa, "
+        "keperluan dapur dan masih banyak kegunaan-kegunaan lainnya. "
+    </string>
+    <string name="makananbanten">
+        " \t  Masakan tradisional khas banten ini memang sudah sangat terkenal sekali khususnya didaerah banten. \n\n"
+        " \t  Masakan berkuah yang berbahan dasar daging dan jeroan kambing ini menjadi kebanggaan masyarakat Banten. "
+        "Masakan yang satu ini apalagi disantap selagi masih hangat, tentu akan semakin lahap untuk menyantapnya. \n\n"
+        " \t  Makanya makanan yang memiliki rasa yang sedikit pedas ini selalu menjadi incaran para pecinta kuliner "
+        "khususnya yang mampir kedaerah banten. "
+    </string>
+    <string name="taribanten">
+        " \t  Tarian ini dilakukan oleh satu orang pria atau lebih sesuai dengan kebutuhan. Gerakkan tari ini tempak gemulai. \n\n"
+        " \t  Tarian topeng mengisahkan tentang seorang rasa yang balas dendam karena cintanya yang ditolak. "
+    </string>
+    <string name="dki"> DKI JAKARTA</string>
+    <string name="dki1">
+        " \t  Nama: Daerah khusus ibukota Jakarta | Pulau: Jawa | Ibukota: Jakarta \n\n"
+        " \t  Gubernur: Anies Baswedan | Wakil Gubernur: Sandiaga Uno(sejak 16 Oktober 2017) \n\n"
+        " \t  Kode BPS: 31 | Kode ISO: ID-JK | Kode kendaraan: B \n\n"
+        " \t  Kode telepon: 021 | Kode pos: 10110-14530 \n\n"
+        " \t  Luas: 740,28 km2 | Populasi: 9.607.787 jiwa | Kepadatan: 12978.59 jiwa/km2 \n\n"
+        " \t  Pembagian administratif: 1 kabupaten dan 5 kota, 78 kecamatan, 438 desa/kelurahan \n\n"
+        " \t  Semboyan: Jaya Raya("Jaya dan Agung") \n\n"
+    </string>
+    <string name="rumahdki">
+        " \t  Rumah tradisional khas Jakarta dinamakan Rumah Kebaya. "
+        "Atapnya berbentuk joglo suatu pertanda ada pengaruh bentuk rumah tradisonal Jawa. "
+        "Begitu pula pembagian ruangannya. Ada serambi depan yang disebut paseban. \n\n"
+        " \t  Tepi paseban dipagari dengan pintu masuk di tengahnya. Pintu itu diberi ukiran dan tingginya sekitar 80 cm. "
+        "Sedangkan tepi atapnya diberi renda seperti kebaya. Paseban berfungsi pula sebagai tempat ibadah."
+    </string>
+    <string name="pakaiandki">
+        " \t  Pakaian adat pria Betawi (Jakarta) berupa tutup kepala (destar) dengan baju jas yang menutup leher (jas tutup). "4
+        "Ia juga memakai celana panjang, kain batik yang melingkar pada pinggang dan sebilah belati terselip di depan perut. \n\n"
+        " \t  Sedangkan wanitanya memakai baju kebaya, selendang panjang serta kain yang dibatik. "
+    </string>
+    <string name="senjatadki">
+        " \t  Badik Merupakan salah satu senjata tradisional yang dikenal penduduk Jakarta. Parang atau golok banyak digunakan oleh para pendekar. "
+        "Sedangkan senjata terkenal lainnya adalah keris, tombak, toya, cabang dan parang. \n\n"
+        " \t  Jalannya sejarah sangat berpengaruh pula kepada keanekaragaman bentuk senjata tradisional daerah Jakarta (Betawi). Senjata badik merupakan salah satu senjata tradisioal penduduk Jakarta yang mendapat pengaruh dari Bugis. Toya dan trisula (senjata tombak yang berujung tiga), "
+        "merupakan pengaruh dari Cina, sedangkan keris merupakan pengaruh dari Jawa. \n\n"
+        " \t  Senjata tradisional lainnya adalah parang atau yang lebih dikenal dengan golok. "
+        "Golok mempunyai ukuran dan wilahan yang beragam pula. Ada yang bentuknya pendek atau panjang dan ada pula yang "
+        "tipis disamping yang tebal. Mata golok tajam sebelah. Golok diselipkan di depan perut dan umumnya banyak dipakai oleh para pendekar. "
+    </string>
+    <string name="makanandki">
+        " \t  Soto Betawi merupakan makanan khas Betawi yang cukup terkenal di Jakarta, dalam soto ini terdapati campuran daging, "
+        "jerohan sapi dan kuah santan kental yang menjadikanya rasa menjadi lebih terasa gurih dan nikmat. "
+    </string>
+    <string name="taridki">
+        "a.   Tari Topeng, merupakan sebuah tari tradisoanl \n"
+        "b.   Tari Yapong, adalah tari persembahan untuk menghormati tamu-tamu negara. \n"
+        "c.   Tari Serondeng, merupakan tari garapan yang mengambil unsur-unsur gerak tari Wayang Betawi. "
+        "Nama serondeng digunakan sesuai dengan nama lagu yang dimainkan oleh Musik Ajeng Betawi yang mengiri tarian ini. \n"
+        "d.   Tari Sembah adalah suatu tarian untuk menyambut tamu dengan adat Betawi"
+    </string>
+    <string name="jabar"> JAWA BARAT</string>
+    <string name="jabar1">
+        " \t  Nama: Jawa Barat | Pulau: Jawa | Ibukota: Bandung \n\n"
+        " \t  Gubernur: Ahmad Heryawan | Wakil Gubernur: Deddy Mizwar(sejak 13 Juni 2013) \n\n"
+        " \t  Kode BPS: 32 | Kode ISO: ID-JB | Kode kendaraan: B, D, E, F, T, Z \n\n"
+        " \t  Kode telepon: 021, 022, 0231-0234, 0251, 0260-0267 | Kode pos: 16110-17730, 40111-46475 \n\n"
+        " \t  Luas: 35.244,91 km2 | Populasi: 43.053.732 jiwa | Kepadatan: 1221.56 jiwa/km2 \n\n"
+        " \t  Pembagian administratif: 18 kabupaten dan 9 kota, 128 kecamatan, 1.332 desa/kelurahan \n\n"
+        " \t  Semboyan: Gemah Ripah Repeh Rapih (Bahasa Sunda); Bahasa Indonesia: "Makmur Sentosa Sederhana Rapi""
+    </string>
+    <string name="rumahjabar">
+        " \t  Salah satu contoh rumah adat Jawa Barat dinamakan Keraton Kasepuhan Cirebon yang di depannya terdapat pintu gerbang. "
+        "Keraton Kasepuhan Cirebon ini terdiri dari 4 ruangan. Jinem atau pendopo untuk para pengawal/penjaga keselamatan Sultan. Pringgodani, tempat Sultan memberi perintah kepada adipati. "
+        "Prabayasa, tempat menerima tamu istimewa Sultan dan Panembahan, ruang kerja dan istirahat Sultan. "
+    </string>
+    <string name="pakaianjabar">
+        " \t  Suku sunda mempunyai pakaian adat/tradisional yang sangat terkenal, yaitu salah satunya kebaya. "
+        "Kebaya merupakan pakaian khas Jawa Barat yang sangat terkenal, sehingga kini kebaya bukan hanya "
+        "menjadi pakaian khas sunda saja tetapi sudah menjadi pakaian adat nasinal. \n\n"
+        " \t  Itu merupakan suatu bukti bahwa kebudayaan daerah merupakan bagian dari kebudayaan nasional. "
+    </string>
+    <string name="senjatajabar">
+        " \t  Di Jawa Barat senjata tradisional yang terkenal adalah kujang. "
+        "Pada mata kujang terdapat 1-5 buah lubang dan sarungnya terbuat dari kain hitam. \n\n"
+        " \t  Senjata lainnya adalah keris kirompang, keris kidongkol, golok, bedok, panah bambu, panah kayu dan tombak. "
+    </string>
+    <string name="makananjabar">
+        " \t  Karedok adalah salah satu makanan khas Jawa Barat dengan bahan dasar sayur-sayuran segar yang disajikan bersama siraman bumbu kacang. \n\n"
+        " \t  Makanan ini sebenarnya seperti gado-gado atau pecel, namun perbedaan paling mendasar adalah pada pemakaian sayurnya yang disajikan keadaan mentah. \n\n"
+        " \t  Sayur-sayuran yang bisa disajikan sebagai karedok adalah timun, daun kemangi, kacang panjang, kol, terong, dan tauge., kesemuanya akan dipotong kecil-kecil dan disajikan dalam keadaan mentah. "
+    </string>
+    <string name="tarijabar">
+        " \t  Jaipong merupakan salah satu tarian tradisional dari Jawa Barat, yang biasanya menampilkan penari dengan menggunakan pakaian khas Jawa Barat yang disebut kebaya, "
+        "serta diiringi musik tradisional Jawa Bart yang disebut Musik Jaipong. \n\n"
+        " \t  Jaipong ini biasanya dimainkan oleh satu orang atau sekelompok penari yang menarikan berakan – gerakan khas tari jaipong. "
+    </string>
+    <string name="jateng"> JAWA TENGAH</string>
+    <string name="jateng1">
+        " \t   Nama: Jawa Tengah | Pulau: Jawa | Ibukota: Semarang \n\n"
+        " \t   Gubernur: H. Ganjar Pranowo, S.H | Wakil Gubernur: Drs. H. Heru Sudjatmoko, M.Si (sejak 22 Agustus 2013) \n\n"
+        " \t   Kode BPS: 33 | Kode ISO: ID-JT | Kode kendaraan: G, H, K, R, AA, AD \n\n"
+        " \t   Kode telepon: 024, 0271-0299, 0356 | Kode pos: 50111-59583 \n\n"
+        " \t   Luas: 33.987,45 km2| Populasi: 32.382.657 jiwa | Kepadatan: 952.78 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 29 kabupaten dan 6 kota, 621 kecamatan, 5.883 desa/kelurahan \n\n"
+        " \t   Semboyan: Prasetya Ulah Sakti Bhakti Praja (Bahasa Jawa); Bahasa Indonesia: "Berjanji akan berusaha keras dan setia terhadap negara" \n\n"
+    </string>
+    <string name="rumahjateng">
+        " \t   Salah satu contoh rumah adat Jawa Barat dinamakan Padepokan. Padepokan Jawa Tengah merupakan bangunan induk istana Mangkunegara di Surakarta. "
+        "Rumah penduduk dan keraton di Jawa Tengah umumnya terdiri dari 3 ruangan. Pendopo, tempat menerima tamu, upacara adat dan kesenian. Pringgitan untuk pagelaran wayang kulit.
+        "Dalem, tempat singgasana raja. Bagi rumah penduduk, "dalem" berarti ruangan untuk tempat tinggal.
+    </string>
+    <string name="pakaianjateng">
+        " \t   Pakaian adat untuk pria Jawa Tengah adalah penutup kepala yang disebut kuluk, berbaju jas sikepan, korset dan keris yang terselip di pinggang. "
+        "Ia juga memakai kain batik dengan pola dan corak yang sama dengan wanitanya. \n\n"
+        " \t   Sedangkan wanitanya memakai kebaya panjang dengan kain batik. Perhiasannya berupa subang, kalung, gelang, dan cincin. "
+        "Sanggulnya disebut bokor mengkureb yang diisi dengan daun pandan wangi."
+    </string>
+    <string name="senjatajateng">
+        " \t   Keris adalah senjata tradisional di daerah Jawa Tengah yang mendapat tempat penting dalam kehidupan masyarakatnya. "
+        "Keris dapat menunjukkan kedudukan seorang dalam masyarakat. Senjata lainnya adalah pedang, tombak, dan perisai "
+    </string>
+    <string name="makananjateng">
+        " \t   Kalau kamu main ke Pati, jangan lupa cobain nasi gandul. Beda dengan nasi lainnya, nasi gandul ini adalah nasi uduk yang penyajiannya pakai daun pisang. \n\n"
+        " \t   Beda kan? Tapi nggak cuma itu aja, rasa nasinya itu lho, lebih gurih dari pada nasi yang biasanya. Bahkan ada juga yang menambahkan daun pandan saat memasak nasi gandul ini, "
+        "biar wanginya makin sedap dan tentu saja menggugah selera makan kita. \n\n"
+        " \t   Nasi gandul ini paling enak kalau kita makannya langsung di kota Pati. "
+        "Dengan kuah yang segar ditambah lauk berupa daging sapi yang sudah diolah tentu akan menjadi pelengkap yang makin membuat nasi gandul ini menjadi lebih lezat. "
+    </string>
+    <string name="tarianjateng">
+        "a.    Tari Serimpi, sebuah tarian keraton pada masa silam dengan suasana lembut, agung dan menawan. \n\n"
+        "b.    Tari Bambangan Cakil, mengisahkan perjuangan Srikandi melawan Buto Cakil (raksasa). "
+        "Sebuah pelambang penumpasan angkara murka. \n\n"
+        "c.    Tari Enggat Enggot, diangkat dari tari tradisional Banyumas. "
+        "Sesuai dengan ciri khas daerahnya tari ini menyuguhkan gerak lincah dan jenaka, selaras dengan "
+        "dinamisnya irama musik calung yang mengiringinya. \n\n"
+        "d.    Tari Kendalen, merupakan tari keprajuritan gagah dan berani. "
+    </string>
+
+    <string name="diy"> YOGYAKARTA</string>
+    <string name="diy1">
+        " \t   Nama: Daerah Istimewa Yogyakarta | Pulau: Jawa | Ibukota: Yogyakarta \n\n"
+        " \t   Gubernur: Sri Sultan Hamengkubuwono X | Wakil Gubernur: Paku Alam X (sejak 3 Oktober1998) \n\n"
+        " \t   Kode BPS: 34 | Kode ISO: ID-YO | Kode kendaraan: AB \n\n"
+        " \t   Kode telepon: 0274 | Kode pos: 55111-55893 \n\n"
+        " \t   Luas: 3.133,15 km2 | Populasi: 3.343.651 jiwa | Kepadatan: 1067.19 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 4 kabupaten dan 1 kota, 109 kecamatan, 1.334 desa/kelurahan \n\n"
+        " \t   Semboyan: Hamemayu Hayuning Bawana (?) (Bahasa Jawa); Bahasa Indonesia: "Mengalir dalam hembusan alam" \n\n"
+    </string>
+    <string name="rumahdiy">
+        " \t   Rumah adat Daerah Istimewa Yogyakarta dinamakan Bangsal Kencono Kraton Yogyakarta merupakan sebuah bangunan Pendopo. "
+        "Halamannya sangat luas, ditumbuhi tanaman dan dilengkapi beberapa sangkar burung. "
+        "Di depan Bangsal Kencono terdapat dua patung dari Gupolo, sang raksasa yang memegang gada (sejenis alat pemukul). "
+    </string>
+    <string name="pakaiandiy">
+        " \t   Pria Yogyakarta memakai pakaian adat berupa tutup kepala (destar), baju jas dengan leher tertutup (jas tutup) dan keris yang terselip di pinggang bagian belakang. "
+        "Ia juga mengenakan kain batik yang bercorak sama dengan sang wanita. \n\n"
+        " \t   Sedangkan wanitanya memakai kebaya dan kain batik. Perhiasannya berupa anting-anting, kalung, dan cincin. "
+    </string>
+    <string name="senjatadiy">
+        " \t   Di Yogyakarta pun kerus merupakan senjata tradisional yang paling terkenal. Keris-keris itu diberi pula gelar-gelar kehormatan seperti "Kanjeng Kyai Kpek" dan sebagainya. \n\n"
+        " \t   Selain keris terdapat pula tombak sebagai benda pusaka. Benda-benda itu sangat dihormati dan diberi gelar kehormatan. Antara lain "Kajeng Kyai Ageng Plered", "
+        "Kanjeng Kyai Ageng Baru", "Kanjeng Kyai Gadapan" dan "Kanjeng Ageng Megatruh". "Kyai Plered" mempunyai sejarah tersendiri, karena Untung Suropati berhasil menewaskan opsir "
+        "Belanda Kapten Tack dengan menggunakan "Kyai Plered" Oleh karena itu, tombak ini dianggap keramat. \n\n"
+        " \t   Ada pula tombak dan keris yang disebut Tosan Aji. Tosan artinya besi dan Aji artinya dihormati karena bertuah. Benda-benda ini biasanya dirawat baik-baik dan disimpan pada tempat-tempat khusus. "
+        "Pada saat-saat tertentu benda-benda itu dibersihkan dan dimandikan "
+    </string>
+    <string name="makanandiy">
+        " \t   Bakpia adalah oleh-oleh khas Yogyakarta. Yang terbuat dari campuran kacang hijau dan gla yang dibalut dengan kulit, dan terbuat dari tepung kemudian dipanggang nikmat di mulut. \n\n"
+        " \t   Tekstur kue yang krispi diluar dan lembut di dalam ini akan memanjakan selera anda. Saat ini juga tersedia bakpia denga nisi yang berbeda, seperti durian, coklat, keju dan masih banyak lagi. "
+        "Hal ini untuk menyesuaikan dengan selera masing-masing pembeli agar lebih puas dengan rasa yang kalian suka."
+    </string>
+    <string name="tariandiy">
+        "a.    Tari Serimpi Sangupati, sebuah tarian keraton pada masa lalu disertai suara gamelan dengan gerak tari yang lembut dan menawan hati. \n\n"
+        "b.    Tari Bedaya, merupakan tarian keraton yang ditarikan oleh 9 putri dengan irama yang lemah gemulai dan lembut. \n\n"
+        "c.    Tari Beksan Nirbaya, diilhami bentuk kesenian "Edan-edanan" salah satu bagian dari upacara keraton Yogya yang berfungsi sebagai "penolak bala". "
+        "Bentuk ini diangkat menjadi seni pertunjukan, yang mendapat stilirasi , tanpa meninggalkan esensi dan karakter geraknya yang unik. \n\n"
+        "d.    Tari Merak, suatu tari yang mengisahkan keindahan dan kebebasan alam bebas yang dialami burung merak. \n\n"
+        "e.    Tari Beksan Lawung Ageng, suatu tari yang diciptakan oleh Sri Sultan Hamengku Buwono I, sebagai sarana untuk memupuk semangat para jiwa prajurit. "
+    </string>
+    <string name="jatim"> JAWA TIMUR</string>
+    <string name="jatim1">
+        " \t   Nama: Jawa Timur | Pulau: Jawa | Ibukota: Surabaya \n\n"
+        " \t   Gubernur: Soekarwo | Wakil Gubernur: Saifullah Yusuf (sejak 12 Februari 2009) \n\n"
+        " \t   Kode BPS: 35 | Kode ISO: ID-JI | Kode kendaraan: L, M, N, P, S, W, AE, AG \n\n"
+        " \t   Kode telepon: 031, 0321-0358 | Kode pos: 60111-69493 \n\n"
+        " \t   Luas: 47.921,16 km2 | Populasi: 37.476.757 jiwa | Kepadatan: 782.05 jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 29 kabupaten dan 9 kota, 573 kecamatan, 8.574 desa/kelurahan \n\n"
+        " \t   Semboyan: Jer Basuki Mawa Béya (Bahasa Jawa); Bahasa Indonesia: "Kesuksesan membutuhkan pengorbanan" "
+    </string>
+    <string name="rumahjatim">
+        " \t   Rumah adat Jawa Timur dinamakan Rumah Situbondo. Rumah Situbondo merupakan model rumah adat Jawa Timur yang mendapat pengaruh dari rumah Madura. "
+        "Rumah itu tidak mempunyai pintu belakang dan tanpa kamar-kamar pula. \n\n"
+        " \t   Serambi depan tempat menerima tamu laki-laki dan tamu perempuan diterima di serambi belakang. "
+        "Mereka masuk dari samping rumah."
+    </string>
+    <string name="pakaianjatim">
+        " \t   Pakaian adat yang dipakai prianya berupa tutup kepala (destar), baju lengan panjang tanpa leher dengan baju dalam warna belang-belang. "
+        "Sepotong kain tersampir di bahunya dan ia memakai celana panjang sebatas lutut dengan ikat pinggang besar. \n\n"
+        " \t   Sedangkan wanitanya memakai baju kebaya pendek dengan kain sebatas lutut. Perhiasan yang dipakainya adalah kalung bersusun dan gelang kaki. "
+    </string>
+    <string name="senjatajatim">
+        " \t   Senjata yang sangat terkenal di Jawa Timur adalah clurit. Clurit adalah sejenis arit dan bentuknya cukup mengerikan. Orang-orang Madura sering menyelipkan clurit di pinggangnya. \n\n"
+        " \t   Senjata lainnya di Jawa Timur adalah sondre, kodi, tombak, pisau belati, dan arit bulu ayam. "
+    </string>
+    <string name="makananjatim">
+        " \t   Rawon merupakan masakan berupa sup daging. Yang unik dari makanan khas Jawa Timur ini adalah kuahnya yang berwarna hitam. "
+        "Warna hitam ini didapat dari bumbu dapur yang disebut kluwek. "
+        "Dalam penyajiannya, rawon umumnya disantap bersama nasi, tauge, telur asin, kerupuk dan sambal. \n\n"
+        " \t   Kini, telah banyak pula rumah makan yang menyajikan rawon setan dengan rasa super pedas. "
+        "Rawon sudah terkenal akan cita rasanya yang khas, sehingga mudah ditemukan di berbagai kota di Jawa Timur. Tapi, yang terkenal adalah rawon Pasuruan.
+    </string>
+    <string name="tarianjatim">
+        "a.    Tari Remo, sebuah tarian dari Surabaya yang melambangkan jiwa kepahlawanan. Ditarikan pada waktu menyambut tamu agung. \n\n"
+        "b.    Reog Ponorogo, merupakan tari daerah Jawa Timur yang menunjukkan keperkasaan, kejantanan, dan kegagahan. \n\n"
+        "c.    Tari Tandakan, adalah jenis tari pergaulan yang digali dan digarap berdasarkan tari tradisional yang berkembang didaerah Jombang, dan sekitarnya. "
+        "Sebagai tari pergaulan maka tari ini bersuasana gembira dan berkesan akrab. "
+    </string>
+    <string name="bali"> BALI</string>
+    <string name="bali1">
+        "\t Nama: Bali | Pulau: Kepulauan Nusa Tenggara| Ibukota: Denpasar \n\n"
+        "\t Gubernur: I Made Mangku Pastika | Wakil Gubernur: I Ketut Sudikerta (sejak 29 Agustus 2013) \n\n"
+        "\t Kode BPS: 51 | Kode ISO: ID-BA | Kode kendaraan: DK \n\n"
+        "\t Kode telepon: 0361-0368 | Kode pos: 80111-82262 \n\n"
+        "\t Luas: 5.561,40 km2 | Populasi: 3.890.757 jiwa | Kepadatan: 699.6 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 8 kabupaten dan 1 kota, 57 kecamatan, 710 desa/kelurahan \n\n"
+        "\t Semboyan: Bali Dwipa Jaya (Bahasa Bali); Bahasa Indonesia: "Pulau Bali Jaya" \n\n"
+    </string>
+    <string name="rumahbali">
+        " \t Salah satu dari contoh rumah adat bali disebut dengan Gapura Candi Bentar. "
+        "Gapura Candi Bentar ini adalah puntu masuk menuju istana raja yang merupakan rumah adat bali juga, "
+        "Gapura Candi Bentar dibuat dari batu yang berwarna merah dan diukir oleh batu cadas. \n"
+        " \t Balai Benggong posisinya terletak di sisi kanan dan Balai Wantikan ini posisinya terletak pada sisi sebelah kiri. "
+        "Apa sih Balai Benggo itu? Balai Benggo ialah tempat peristirahatan raja dan keluarganya, "
+        "lalu dengan Balai Wantikan? Balai Wantikan ini ialah tempat pagelaran kesenian. \n"
+        " \t Secara umumnya, rumah adat bali ini dipenuhi dengan hiasan pernak-pernik, "
+        "ukiran-ukiran dengan warna yang alami kemudian patung-patung simbol ritual. "
+        "Bangunan rumah adat bali ini terpisah-pisah sehingga bangunan rumah adat bali ini menjadi banyak bangunan-bangunan kecil dalam satu wilayah. "
+    </string>
+    <string name="pakaianbali">
+        " \t Pakaian tradisional bali laki-laki berbentuk destra (ikat kepala), kain songket, saput, dan "
+        "dilengkapi dengan sebilah keris yang diselipkan didaerah pinggang bagian belakang. \n"
+        " \t Sedangkan dengan pakaian adat bali wanita ini menggunakan dua helai kaing songket, "
+        "setagen songket dan selendang, selain menggunakan dua helai kain songket dan lain sebagainya, "
+        "pakaian adat bali untuk wanita ini dilengkapi dengan hiasan-hiasan bunga emas dan hiasan bunga "
+        "kamboja diatas tepat pada kepala. \n"
+        " \t Perhiasan-perhiasan untuk menghias pakaian adat bali khusus wanita ini adalah seperti kalung, subang, dan gelang
+    </string>
+    <string name="senjatabali">
+        " \t Pada setiap masing-masing daerah pasti memiliki yang namanya dengan senjata tradisional, "
+        "yang mana senjata tradisional itu ketika zaman dahulu dipergunakan dengan baik untuk berperang "
+        "melawan musuh-musuh yang menyerang diri kita, berburu atau sebagai alat pelengkap ketika adanya kegiatan resmi."
+    </string>
+    <string name="senjatabali1">
+        " \t Menurut kisah cerita, keris bali ini merupakan salah satu peninggalan  dai kekuasan Kerajaan Majapahit. "
+        "Konon katanya, keris ini kebudayaan Majapahit yang sangat kuat, sehingga alat pertempuran seperti keris ini "
+        "diangkat oleh kerajaan-kerajaan di Pulau Bali atau bisa disebut dengan Pulau Dewata."
+    </string>
+    <string name="senjatabali2">
+        " \t Menurut filosofi, keris bali ini dilihat sebagai simbol dari nilai ajaran-ajaran tentang kehidupan agama Hindu. "
+        "Bahkan, mereka mempunyai hari-hari tertentu untuk beribadah ketika akan merawat kesucian keris pusaka yang dimiliki olehnya. "
+    </string>
+    <string name="makananbali">
+        " \t Konon, bebek betutu yang berasal dari Kuta, Bali ini adalah makanan kesukaan para raja di Bali. "
+        "Cara memasaknya cukup unik, yaitu daging bebek yang telah dibumbui harus dipijat-pijat terlebih dahulu. "
+        "Katanya, dengan dipijat-pijat maka daging bebek akan menjadi empuk dan bumbunya meresap hingga ke tulang. \n"
+        " \t Bebek yang telah dipijat lalu dibungkus dengan menggunakan daun pisang atau daun pinang lalu dipanggang dalam api sekam. "
+        "Proses memasak bebek betutu membutuhkan waktu berjam-jam sehingga bebek betutu hanya dimasak ketika ada acara adat "
+        "atau upacara keagamaan. Selain bebek betutu, ada juga ayam betutu. Perbedaan keduanya hanya dari dagingnya saja. "
+        "Salah satu produsen betutu adalah Desa Melinggih, Kecamatan Payangan, Kabupaten Gianyar. "
+    </string>
+    <string name="taribali">
+        " \t Tarian tradisional ini namanya Tari Panji Semirang. Tari Panji Semirang ini dimainkan oleh wanita, "
+        "Tari Panji Semirang ini ialah tarian yang melambangkan seorang putri raja yang bernama Galuh Cadrakirana, "
+        "yang mana putri raja itu menyamar menjadi seorang laki-laki sesudah kehilangan suaminya \n"
+        " \t Didalam lambangnya ia mengganti namanya menjadi Raden Panji, maka dari itulah tarian tersebut disebut dengan Tari Panji Semirang
+    </string>
+    <string name="ntb"> NUSA TENGGARA BARAT</string>
+    <string name="ntb1">
+        Nama: Nusa Tenggara Barat | Pulau: Kepulauan Nusa Tenggara | Ibukota: Mataram
+Gubernur: Muhammad Zainul Majdi | Wakil Gubernur: Badrul Munir (sejak 8 September 2008)
+Kode BPS: 52 | Kode ISO: ID-NB | Kode kendaraan: DR, EA
+Kode telepon: 0370-0376, 0364 | Kode pos: 83115-84458
+Luas: 19.950,22 km2 | Populasi: 4.500.212 jiwa | Kepadatan: 225.57 jiwa/km2
+Pembagian administratif: 8 kabupaten dan 2 kota, 116 kecamatan, 904 desa/kelurahan
+Semboyan:
+    </string>
+    <string name="rumahntb">
+         Salah satu contoh rumah adat Nusa Tenggara Barat disebut Istana Sultan Sambawa. Istana tersebut bertingkat tiga. Lantai bawah atau pertama merupakan tempat pengawalan. Bila ada upacara, maka para pengawal berbaris didepan tangga, sesuai urutan pangkatnya. Anak tangga menandakan urutan pangkat tersebut.
+Lantai kedua adalah tempat kediaman Sultan dan Permaisuri. Disebalah kana berhapan dengan kamar Sultan alah tempat pangeran pangeran. Sedangkan lantai tiga disediakan untuk para putri dan keluarga lainnya dari Sultan.
+    </string>
+    <string name="pakaianntb">
+         Pakaian adata pria Lombok berupa tutup kepala dengan baju berlengan panjang, kain sarung sebatas dengkul dan kain sarung yang ditenun. Sedangakan wanitanya memakai kebaya panjang dengan kain songket. Perhiasannya yang dipakai adalah hiasan bunga dikepala, anting anting, kalung bersusun, pending, dan gelang.
+Pakaian adat pria Sumbawa berupa tutup kepala,baju jas tutup, kain songket dan kain tenun yang melingkar dipinggang. Wanitanya memakai model baju bodo, dan kain songket. Perhiasan yang dipakai berupa hiasan bunga dikepala, kalung bersusun, pending, dan gelang tangan.
+    </string>
+    <string name="senjatantb">
+         Di NTB, senjata tradisional adalah keris. Ada berbagai jenis keris, misalnya sampari dan sondi. Di Lombok, sondi bernama grantin.
+Keris merupakan benda pusaka yang diperoleh secara turun temurun. Dipakai pada saat upara upara adat, juga pada waktu upacara keagaaman, seperti Maulid Nabi Muhammad SAW, Idut Fitri, Idul Adha dan pada waktu menerima tamu negara.
+    </string>
+    <string name="makananntb">
+        Kamu pasi pernah makan dong ayam taliwang ini, makanan khas NTB yang satu ini sangat popular di Nusa Tenggara Barat khususnya di Pulau Lombok. Ayam taliwang kini dapat kamu temukan hampir diseluruh kota/kabupaten di Nusa Tenggara Barat.
+
+Dan sekarang ayam taliwang sudah populer di Indonesia, ayam taliwang berbahan dasar ayam (ya pastilah) yang direbus terlebih dahulu sebelum di masak dan di bakar. Saat pembakaran ayam taliwang di oleskan dengan berbagai bumbu rempah-rempah asli Indonesia.
+    </string>
+    <string name="tarintb">
+         a. Tari Mpaa Lenggogo, sebuah tarian guna menyambut kehadiran Maulid Nabi Besar Muhammad SAW. Tari ini juga sering dipertunjukkan pada upacara upacara perkawinan atau upacara khinatan keluarga raja.
+b. Tari Batu Nganga, adalah sebuah tari berlatar belakang cerita rakyat. Mengisahkan tentang kecintaan rakyat terhadap putri raja yang mesuk kedalam batu. Mereka memohon agar sang putri dapat keluar dari dalam batu itu.
+c. Tari Gora (Gogo Rancah), adlah tarian yang menggambarkan keceriaan dan kegembiraan para petani yang dengan semangat menanam padi. Tari ini merupakan tari garapan yang diolah dari sumber tari tradisi suku Sasak, suku Sumbawa, dan suku Bima.
+    </string>
+
+    <string name="ntt"> NUSA TENGGARA TIMUR</string>
+    <string name="ntt1">
+        Nama: Nusa Tenggara Timur | Pulau: Kepulauan Nusa Tenggara | Ibukota: Kupang
+Gubernur: Frans Lebu Raya | Wakil Gubernur: Benny Alexander Litelnoni (sejak 16 Juli 2013)
+Kode BPS: 53 | Kode ISO: ID-NT | Kode kendaraan: DH, EB, ED
+Kode telepon: 0380-0389 | Kode pos: 85111-87284
+Luas: 47.676,51 km2 | Populasi: 4.683.827 jiwa | Kepadatan: 98.24 jiwa/km2
+Pembagian administratif: 20 kabupaten dan 1 kota, 284 kecamatan, 2.845 desa/kelurahan
+Semboyan:
+    </string>
+    <string name="rumahntt">
+        Salah satu contoh rumah adat Nusa Tenggara Timur disebut Saoata Musalakitana. Rumah Saoata Musalakitana adalah rumah rumah adat di NTT, untukk tempat tinggal lurah, camat atau pembesar lainnya. Rumah ini berbentuk panggung dan dibawahnya terdapat balai panjang tempat menerima tamuyang tiangnya berdiri dari landasan batu besar, sehingga tidak perlu ditanam dalam tanah.
+    </string>
+    <string name="pakaianntt">
+         Pakaian adat yang dipakai kaum pria di NTT berupa topi dengan bentuk yang khas, baju jas ttup, selempang kain tenun dan bersarung kain tenun. Sebilah golok terselip didepan perut. Perhiasan yang dipakai berupa kalung dan pending.
+Sedangkan wanitanya memakai hiasan kepala berbentuk bulan sabit, kain tenun yang menyelempang di bahu dan kain tenun yang menutup bagian dada hingga kaki.perhiasan yang dipakai adalah subang, kalung, pending, dan gelang tangan. Pakaian ini berdasarkan pakaian adat Rote.
+    </string>
+    <string name="senjatantt">
+         Senjata yang umumnya dipakai oleh penduduk NTT adalah Sundu atau Sudu, semacam keris. Penduduk menganggapnya sebagai senjata tikam yang keramat. Senjata lainnya adalah Saweo, Pisau, Kampak, Parang, dan Senapan Tumbuk.
+
+    </string>
+    <string name="makananntt">
+        Kolo atau nasi bakar demikian sebutan untuk makanan khas yang dimasak menggunakan bamboo, untuk bisa menghasilkan nasi bakar atau nasi bambu ini dibutuhkan bahan berupa bambu muda dengan panjang 30 sentimeter, beras dan bumbu masakan. Cara memasaknya, beras, air dan bumbu masakan dimasukkan kedalam bambu. Setelah itu, pada bagian ujung atau mulut ditutup dengan daun pisang. Lalu, dibakar sampai matang berkisar setengah jam lamanya.
+    </string>
+    <string name="tarianntt">
+         a. Tari Perang, tari yang menunjukkan sifat sifat keperkasaan dan kepandaian mempermainkan senjata. Senjata yag dipakai berupa cambuk dan perisai.
+b. Tari Gareng Lameng, dipertunjukkan pada upacara Khinatan. Tari ini berupa upacan selamat serta mohon berkat kepada Tuhan agar yang dikhinat sehat lahir dan batin dan suksesdalam hidupnya.
+c. Tari Lendo Nusa Malole, berarti tarian ini dari negeri yang indah. Tari garapan yang menggunakan irirngan musik sasando ini merupakan tari penyambut tamu yang memanfaatkan gerak gerak tari tertentu agar massa ikut dalam kegembiraan.
+    </string>
+
+    <string name="kalbar"> KALIMANTAN BARAT</string>
+    <string name="kalbar1">
+        "\t Nama: Kalimantan Barat | Pulau: Kalimantan | Ibukota: Pontianak \n\n"
+        "\t Gubernur: Cornelis | Wakil Gubernur: Christiandy Sanjaya (sejak 14 Januari 2008) \n\n"
+        "\t Kode BPS: 61 | Kode ISO: ID-KB | Kode kendaraan: KB \n\n"
+        "\t Kode telepon: 0564-0568, 0534 | Kode pos: 78111-79682 \n\n"
+        "\t Luas: 115.114,32 km2 | Populasi: 4.395.983 jiwa | Kepadatan: 38.19 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 12 kabupaten dan 2 kota, 660 kecamatan, 8.513 desa/kelurahan \n\n"
+        "\t Semboyan: Akcaya; Bahasa Indonesia: "Tak kunjung binasa" \n\n"
+    </string>
+    <string name="rumahkalbar">
+         "Salah satu contoh rumah adat Kalimantan Barat dinamakan Istana Kesultanan Pontianak. "
+         "Istana Kesultanan Pontianak berbentuk panggung. Bagian kolongnya tidak dipergunakan, karena tanahnya berawa-rawa. "
+         "Pada kiri-kanan istana terdapat kamar-kamar dan ditengahnya terdapat singgasana, tempat Sultan mengadakan upacara dan pertemuan. "
+         "Istana tersebut terbuat dari kayu besi seluruhnya dan atapnya terbuat dari sirap kayu besi pula."
+    </string>
+    <string name="pakaiankalbar">
+         " \t Pria Kalimantan Barat memakai pakaian adat berupa tutup kepala berhiaskan bulu burung enggang, baju tanpa lengan (rompi), "
+         " celana panjang sebatas lutut dan kain yang berfungsi sebagai ikat pinggang. Perhiasan yang dipakainya berupa kalung manik-manik. \n\n"
+         " \t Wanitanya memakai kain yang menutup bagian dada, juga lapisan kain-kain yang berfungsi sebagai setagen dan kain yang ditenun. "
+         " Perhiasan yang dipakainya berupa bulu enggang sebagai perhiasan kepala, kalung manik-manik dan gelang di lengan. "
+         " Pakaian adat ini berasal dari suku Dayak. "
+    </string>
+    <string name="senjatakalbar">
+         " \t Mandau adalah senjata tradisional yang biasa dipakai oleh penduduk di Kalimantan Barat. "
+         "MAndau adalah sejenis parang dan ada pula mandau yang dipakai untuk keperluan sehari-hari. "
+         "Senjata lainnya adalah perisai, sumpitan, tombak, dan sabit. \n\n"
+         " \t Mandau untuk keperluan berperang, dihiasi dengan rambut manusia sebagai lambang keberanian. "
+         "Perisainya yang disebut kelikit berukuran setinggi badan dengan diberi hiasan ukir-ukiran berwarna hitam dan merah. "
+         "Senjata lainnya adalah sumpitan dengan anak sumpit (damak) yang ujungnya diberi racun getah pohon yang disebut ipoh."
+    </string>
+    <string name="makanankalbar">
+        "\t Mungkin buat kebanyakan orang Jakarta masih asing dengan bakmie kepiting ini. "
+        "Kalau kamu biasa menyantap mie bersama ayam atau pork, khas Pontianak justru menyandingkannya dengan potongan kepiting dan topping lainnya, "
+        "seperti kecambah, pangsit goreng, ikan, udang, bakso, dan daging kepiting. "
+        "Bisa dibilang, seperti makan seafood dalam sajian bakmi. "
+    </string>
+    <string name="makanankalbar1">
+        "\t Berikut makanan khas Kalbar lainnya: \n"
+        "1.    Bingka \n"
+        "2.    Mie Sagu \n"
+        "3.    Kerupuk Basah \n"
+        "4.    Bubur Pedas \n"
+        "5.    Asam Pedas Tempoyak \n"
+        "6.    Sotong Pangkong \n"
+        "7.    Pengkang \n"
+    </string>
+    <string name="tarikalbar">
+        "a.    Tari Mandau, Tarian Mandau merupakan simbolisasi dari semangat juang masyarakat Suku Dayak dalam membela harkat dan martabatnya. \n"
+        "b.    Tari Monong, merupakan sebuah tari penolak penyakit, agar si penderita dapat sembuh kembali. Penari berlaku seperti dukun dengan jampi-jampinya. \n"
+        "c.    Tari Zapin Tembung, merupakan suatu tari pergaulan dalam masyarakat Kalimantan Barat. \n"
+        "d.    Tari Menoreh Getah, tari ini menggambarkan gerak kehidupan masyarakat pedesaan Kalimantan Barat yang memenuhi kebutuhan sehari-harinya dengan menoreh getah. "
+        "Berpijak pada ide itu tari ini digarap berdasarkan unsur-unsur gerak dari tari Melayu dan Dayak yang ada di daerah Kalimantan Barat. \n"
+        "e.    Tari Tandak Sambas, adalah bentuk tari-tarian pergaulan rakyat Kalimantan Barat. "
+    </string>
+    <string name="kalteng"> KALIMANTAN TENGAH</string>
+    <string name="kalteng1">
+        "\t Nama: Kalimantan Tengah | Pulau: Kalimantan | Ibukota: Palangkaraya \n\n"
+        "\t Gubernur: Agustin Teras Narang | Wakil Gubernur: Achmad Diran (sejak 4 Agustus 2010) \n\n"
+        "\t Kode BPS: 62 | Kode ISO: ID-KT | Kode kendaraan: KH \n\n"
+        "\t Kode telepon: 0513-0539 | Kode pos: 73111-74874 \n\n"
+        "\t Luas: 153.564,50 km2 | Populasi: 2.212.089 jiwa | Kepadatan: 14.4 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 13 kabupaten dan 1 kota, 149 kecamatan, 1.979 desa/kelurahan \n\n"
+        "\t Semboyan: Isen Mulang (Bahasa Sangen); Bahasa Indonesia: "Pantang Mundur" \n\n"
+    </string>
+    <string name="rumahkalteng">
+        "( Rumah Betang (rumah panjang) )"
+    </string>
+    <string name="rumahkalteng1">
+        " \t Rumah adat Kalimantan Tengah dinamakan Rumah Betang, Bentuk rumahnya panjang, "
+        "bawah kolongnya digunakan untuk pertenun dan menumbuk padi dan dihuni oleh lebih kurang 20 kepala keluarga. \n"
+        " \t Rumah terdiri dari 6 kamar antara lain untuk penyimpanan alat-alat perang, kamar untuk pendidikan gadis, "
+        "tempat sesajian, tempat upacara adat dan agama, tempat penginapan dan ruang tamu. "
+        "Pada kiri-kanan ujung atap dihiasi tombak sebagai penolak mara bahaya. "
+    </string>
+    <string name="pakaiankalteng">
+        "( Pakaian Adat Kalteng )"
+    </string>
+    <string name="pakaiankalteng1">
+        " \t Pakaian adatnya pria Kalimantan Tengah berupa kepala berhiasankan bulu-bulu enggang, "
+        "rompi dan kain-kain yang menutup bagian bawah badan sebatas lutut. "
+        "Sebuah tameng kayu hiasan yang khas bersama mandaunya berada di tangan. "
+        "Perhiasan yang dipakai berupa kalung-kalung manik dan ikat pinggang. \n"
+        " \t Wanitanya memakai baju rompi dan kain (rok pendek), tutup kepala berhiaskan bulu-bulu enggang, "
+        "kalung manik, ikat pinggang dan beberapa gelang tangan. "
+    </string>
+    <string name="tarikalteng">
+        "( Tari Tambun dan Bungai )"
+    </string>
+    <string name="tarikalteng1">
+        "a.    Tari Tambun dan Bungai, merupakan sebuah tari yang mengisahkan kepahlawanan Tambun dan "
+        "Bungai dalam mengusir musuh yang akan merampas panen rakyat. \n"
+        "b.    Tari Balean Dadas, merupakan tarian guna memohon kesembuhan bagi mereka yang sakit. \n"
+        "c.    Tari Sangkai Tingang, tari garapan yang memanfaatkan perbendaharaan gerak tari tradisi "
+        "ini menggambarkan sikap sekelompok wanita dalam mencintai lingkungan hidupnya. "
+        "Mereka berusaha dan berdoa agar burung enggang yang indah itu tetap dilindungi kelestariannya."
+    </string>
+    <string name="senjatakalteng">
+        "( Mandau )"
+    </string>
+    <string name="senjatakalteng1">
+        " \t Di Kalimantan Tengah senjata tradisionalnya adalah mandau. "
+        "Bagian hulunya dihiasi ukiran burung tinggang, sejenis burung enggang. \n"
+        " \t Menurut kepercayaan mereka, burung tinggang adalah penguasa seluruh alam. "
+        "Senjata terkenal lainnya adalah lunjuk sumpit, randu (sejenis tombak) dan perisai."
+    </string>
+    <string name="makanankalteng">
+        "( Umbut Rotan) "
+    </string>
+    <string name="makanankalteng1">
+        " \t Umbut rotan adalah makanan dari Kalimantan Tengah yang terbilang sangat unik. "
+        "Kuliner asli dari Suku Dayak ini menjadikan rotan sebagai bahan utama dari menu ini. "
+        "Umbut Rotan juga dikenal dengan sebutan nama uwut nang’e."
+    </string>
+    <string name="makanankalteng2">
+        " \t Berikut makanan khas Kalteng lainnya: \n"
+        "1.    Juhu Umbut Sawit\n"
+        "2.    Wadi\n"
+        "3.    Kalumpe\n"
+        "4.    Bangamat\n"
+    </string>
+    <string name="kaltim"> KALIMANTAN TIMUR</string>
+    <string name="kaltim1">
+        " \t   Nama: Kalimantan Timur | Pulau: Kalimantan| Ibukota: Samarinda \n\n"
+        " \t   Gubernur: Awang Faroek Ishak | Wakil Gubernur: Mukmin Faisyal (sejak 17 Desember 2013) \n\n"
+        " \t   Kode BPS: 64 | Kode ISO: ID-KT | Kode kendaraan: KT \n\n"
+        " \t   Kode telepon: 0541 | Kode pos: 75117 \n\n"
+        " \t   Luas: 129.066,64 km2 | Populasi: 3.725.279 jiwa | Kepadatan: - jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 7 kabupaten dan 3 kota, 103 kecamatan, 1020 desa/kelurahan \n\n"
+        " \t   Semboyan: Ruhui Rahayu  (Bahasa Kalimantan Timur); Bahasa Indonesia: "Keseimbangan sempurna di segala hal berkat ridho Tuhan YME" "
+    </string>
+    <string name="rumahkaltim">
+        " \t   Rumah adat Kalimantan Timur dinamakan Rumah Lamin. Rumah Lamin adalah rumah adat suku Dayak Kenyah diKalimantan Timur. "
+        "Rumah itu berbentu panggung setinggi 3m dari tanah dan dihuni oleh 25-30 kepala keluarga. "
+        "Ujung atap rumah diberi hiasan kepala naga, simbol keangungan, budi luhur, dan kepahlawanan. "
+        "Halaman rumah diisi oleh patung patung Blontang, menggambarkan dewa dewa sebagai penjaga rumah atau kampung \n\n"
+        " \t   Rumah lamin terbagi atas ruang dapur, ruang tidur dan ruang tengah guna menerima tamu atau pertemuan adat. "
+        "Tangga untuk naik kerumah lamin terbuat dari satu pohon. Bentuk tangga ini tak berbeda antara rumah bangsawan dan rumah rakyat biasa. "
+        "Dinding rumah terbuat dari katu diselingi daun rumbia, sedangkan kolong rumah dapan dipergunakan untuk memelihara ternak. "
+    </string>
+    <string name="pakaiankaltim">
+        " \t   Pria dari Kalimantan Timur memakai tutup kepala (topi) berhiaskan bulu bulu enggang, baju rompi dan kain tenun sebatas lutut. "
+        "Sebuah tameng dengan hiasan yang khas berada ditangannya. Hiasan lainnya adalah kalung yang terbuat dari tulang atau gigi binatang. \n\n"
+        " \t   Sedangkan wanitanya memakai topi dengan hiasan yang khas baju rompi dan kain (rok) dengan warna dan hiasan yang khas pula. "
+        "Perhiasan yang dipakai adalah kalung dan beberapa gelang dikedua belah tangannya. "
+    </string>
+    <string name="senjatakaltim">
+        " \t   Bujak adalah senjata tradisional Kalimatan Timur yang merupakan senjata sejenis tombak. "
+    </string>
+    <string name="makanankaltim">
+        " \t   Nasi kuning Samarinda adalah nasi yang berwarna kuning (karena diwarnai dengan kunyit) yang disajikan dengan ikan haruan (ikan gabus), "
+        "telur bumbu bali, bawang goreng, dan serundeng. Di Samarinda, Anda dapat menyantap menu nasi kuning ini pada pagi atau malam hari. "
+    </string>
+    <string name="tarikaltim">
+        "1.    Tari Gong, dipertunjukkan pada waktu upacara penyambutan terhadap tamu agung. Dapat pula dipertunjukkan sewaktu kelahiran seorang bayi kepala suku. "
+        "Tari ini bersumber dari tari tradisi Dayak Kenyah, yang merupakan gabungan dari tari perang dan tari gong. "
+        "Keseluruhannya menggambarkan kisah dua orang pemuda yang memperebutkan seorang putri yang kemudian menjelma menjadi seekor burung. \n \n"
+        "2.    Tari Perang, tari yang mempertunjukkan pertarungan dua orang pemuda salam memperebutkan seorang gadis. \n\n"
+        "3.    Hudug dan Belian, adalah tari tarian yang mengandung kepercayaan magic untuk mengusir roh jahat yang menganggu. "
+    </string>
+
+    <string name="kalut"> KALIMANTAN UTARA</string>
+    <string name="kalut1">
+        " \t   Nama: Kalimantan Utara | Pulau: Kalimantan| Ibukota: Tanjung Selor \n\n"
+        " \t   Gubernur: Iirianto Lambrie | Wakil Gubernur: Udin Hianggio (sejak 22 April 2015) \n\n"
+        " \t   Kode BPS: - | Kode ISO: ID-KU | Kode kendaraan: KU \n\n"
+        " \t   Kode telepon: 0552 | Kode pos: 77212 \n\n"
+        " \t   Luas: 75467,70 km2 | Populasi: 666333 jiwa | Kepadatan: - jiwa/km2 \n\n"
+        " \t   Pembagian administratif: 4 kabupaten dan 1 kota, 50 kecamatan, 479 desa/kelurahan \n\n"
+        " \t   Semboyan: Ruhui Rahayu  (Bahasa Kalimantan Utara); Bahasa Indonesia: "Keseimbangan sempurna di segala hal berkat ridho Tuhan YME" "
+    </string>
+    <string name="rumahkalut">
+        " \t   Rumah Baloy merupakan rumah adat yang  terkenal dari masyarakat Kalimantan Utara. "
+        "Bentuk bangunan rumah adat ini terlihat lebih modern dan modis karena hasil pengembangan arsitektur Dayak dari Rumah Panjang (Rumah Lamin) "
+        "yang dihasilkan oleh Masyarakat suku Tidung yang tidak lain merupakan suku di Kalimantan Utara. "
+        "Seperti suku lainnya, suku Tidung ini mempunyai kebudayaan dan model rumah adat sendiri."
+
+    </string>
+    <string name="pakaiankalut">
+        " \t   Pakaian adat Kalimantan Utara hampir mirip dengan pakaian adat di Kalimnatan Timur. "
+        "Karena provinsi ini dulu termasuk kedalam provinsi Kalimantan Timur sehingga untuk suku bangsa dan "
+        "kebudayannya pun mirip dengan Kalimantan timur. \n\n"
+        " \t   Pakaian adat pada pria mengenakan rompi tanpa lengan serta dililitkan kain hingga selutut. "
+        " \t   Dikepala dikenakan topi berhiaskan bulun burung. \n\n"
+        " \t   Sedangkan pakaian adat pada wanita menegnakan rompi yang bercorak khas Kalimantan tanpa lengan "
+        "serta bagian bawahnya rok. Dikepalanya dihiasi topi yang unik. "
+    </string>
+    <string name="senjatakalut">
+        " \t   Senjata Mandau merupakan senjata pusaka tradisional suku Dayak, berupa pusaka turun temurun yang dianggap keramat. "
+    </string>
+    <string name="makanankalut">
+        " \t   Di Tanjung Selor, Kabupaten Bulungan terdapat makanan khas asli yaitu tudai. "
+        "Tudai adalah kerang berdaging tebal berwarna hitam dan jingga. Disajikan dengan direbus "
+        "menggunakan bumbu-bumbu khas dari daerah tersebut. "
+    </string>
+    <string name="tarikalut">
+        " \t   Tari Kancet Ledo merupakan tarian daerah yang berasal dari Baram-Sarawak, Kalimantan Utara yaitu suku Dayak Kenyah. "
+        "Gerakan tari ini menggambarkan kelembutan seorang gadis, seperti ketika angin berhembus yang mengayunkan padi. "
+        "Pakaian yang dikenakan dalam tari ini menggunakan pakaian adat suku Dayak Kenyah dengan rangkaian buket sejumlah ekor burung enggang. "
+    </string>
+    <string name="kalsel"> KALIMANTAN SELATAN</string>
+    <string name="kalses1">
+        "\t Nama: Kalimantan Selatan | Pulau: Kalimantan | Ibukota: Banjarmasin \n\n"
+        "\t Gubernur: Rudy Ariffin | Wakil Gubernur: Rudy Resnawan (sejak 8 Agustus 2010) \n\n"
+        "\t Kode BPS: 63 | Kode ISO: ID-KS | Kode kendaraan: DA \n\n"
+        "\t Kode telepon: 0511-0527 | Kode pos: 70111-72275 \n\n"
+        "\t Luas: 36.805,34 km2 | Populasi: 3.626.616 jiwa | Kepadatan: 98.54 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 11 kabupaten dan 2 kota, 176 kecamatan, 1.726 desa/kelurahan \n\n"
+        "\t Semboyan: Wadja Sampai Kaputing (Bahasa Banjar); Bahasa Indonesia: "Tetap bersemangat dan kuat seperti baja dari awal sampai akhir" "
+    </string>
+    <string name="rumahkalsel">
+        "\t Rumah adat Kalimantan Selatan dinamakan Rumah Banjar Bubungan Tinggi. "
+        "Rumah Banjar Bunbungan Tinggi mempunyai atap tinggi. "
+        "Bagian depan rumah berfungsi sebagai teras yang dinamakan pelatar, "
+        "tempat anggota keluarga bersantai. \n"
+        "\t Rumah ini merupakan rumah panggung dan dibawahnya dapat digunakan untuk menyimpan padi dan sebagainya. "
+        "Seluruh rumah terbuat dari kayu ulin dan atapnya dari sirap kayu ulin."
+    </string>
+    <string name="pakaiankalsel">
+        "\t Pria memakai pakaian adat berupa tutup kepala(destra), baju rompi, sarung sebatas dengkul dan celana panjang yang disebut selawar. "
+        "Sedangkan sebilah keris diselipkan didepan perut. \n"
+        "\t Wanitanya memakai tutup kepala berhiasankan kembang goyang yang disebut sumping, baju dan kain bersulam emas. "
+        "Perhiasan yang dipakainya beruapa anting-anting, kalung, pending, dan gelang. "
+        "kaian pengantinini berdasarkan adat banjar."
+    </string>
+    <string name="senjatakalsel">
+        "\t Keris adalah salah satu senjata tradisonal diKalimantan Selatan. "
+        "Ukurannya paling panjang lebih kurang 30cmdan matanya terlogam lainnya. "
+        "Senjata buat dari besi dicampur logam lainnya. \n"
+        "\t Senjata lainnya adalah anak mandau, bujak (sejenis tombak), sumpitan, dan beliung. "
+    </string>
+    <string name="makanankalsel">
+        "\t Mungkin yang paling terkenal dari semua makanan khas Kalimantan Selatan adalah Soto Banjar, "
+        "bahkan banyak restoran dan warung makan di Indonesia yang mengunakan Soto Banjar sebagai salah satu menu spesialnya. \n\n"
+        "\t Soto Banjar ini sebetulnya tidak jauh berbeda dengan jenis Soto pada umumnya di Indonesia, "
+        "perbedaannya mungkin hanya pada kuahnya yang lebih bening. "
+        "Walaupun begitu ada juga Soto Banjar yang kuahnya agak keruh. \n\n"
+        "\t Keunikan Soto Banjar dibanding jenis Soto lain di Indonesia yaitu tidak mengunakan nasi melainkan pakai ketupat, "
+        "dan katanya lebih nikmat lagi kalau disantap bersama Sate."
+    </string>
+
+    <string name="tarikalsel">
+         "a.    Tari Baksa Kembang, merupakan tai selamat datang pada tamu agung dengan    menyampaikan untaian bunga. \n"
+         "b.    Tari Radap Rahayu, dipertunjukkan pada upacara tepung tawar, sebelum pengantun pria dan wanita dipersandingkan dipelaminan. \n"
+         "c.    Tari Mantang Gandut, tari gandut merupakan jenis tari garapan yang diangkat dari tari tradisional Kalimantan Selatan. "
+         "Tari ini termasuk jenis tari pergaulan, dimana penari wanita, "
+         "yang dinamakan Gandut, berusaha menarik simpati penonton, sedangkan penari pria(Mantang) menyambut tantangan itu dengan memilih pasangannya. "
+
+    </string>
+
+    <string name="sulut"> SULAWESI UTARA</string>
+    <string name="sulut1">Nama: Sulawesi Utara | Pulau: Sulawesi | Ibukota: Manado
+Gubernur: Olly Dondokambey | Wakil Gubernur: Steven Kandouw (sejak 12 Februari 2016)
+Kode BPS: 71 | Kode ISO: ID-SA | Kode kendaraan: DB, DL
+Kode telepon: 0430-0438 | Kode pos: 95111-95999
+Luas: 13.930,73 km2 | Populasi: 2.270.596 jiwa | Kepadatan: 162.99 jiwa/km2
+Pembagian administratif: 11 kabupaten dan 4 kota, 149 kecamatan, 1.464 desa/kelurahan
+Semboyan: Si Tou Timou Tumou Tou (Bahasa Minahasa); Bahasa Indonesia: "Manusia hidup untuk memanusiakan orang lain"</string>
+    <string name="rumahsulut">
+        Salah satu contoh rumah adat Sulawesi Utara dinamakan “Rumah Pewaris”. Rumah ini dihuni oleh para pemimpin maupun rakyat biasa. Rumah tersebut harus dibuat dari balok atau papak tanpa sambungan. Kayunya tak boleh bengkok sebagai pelambang ketulusan lahir dan batin. Atapnya dari daun rumbia dan dikanan kiri rumah terdapat tangga. Rumah pewaris mempunyai ruang tamu, ruang keluarga, dan kamar kamar.
+    </string>
+    <string name="pakaiansulut">
+        Pakaian adat kaum pria Sulawesi Utara adalah tutup kepala (destar), baju model teluk belanga dan celana panjang. Sedangkan wanitanya memakai baju kurung dan kain panjang. Selain itu dibagian dadanya terdapat hiasan yang khas, dan perhiasan lainnya berupa subang serta gelang. Pakaian ini berdasarkan adat Bolaang Mongondow.
+    </string>
+    <string name="senjatasulut">
+        Keris merupakan senjata tradisional yang biasa dipakai oleh rakyat di Sulawesi Utara. Bentuknya lurus tanpa berlekuk lekuk. Sedangkan senjata terkenal lainnya adalah peda (semacam parang), sabel,tombak, dan perisai.
+Pedan dan parang dapat dipergunakan untuk berbagai keperluan, seperti untuk bertani atau menyadap enau. Pedan ini bentuknya pendek dengan ukurun 50cm, terbuat dari besi. Hulunya terbuat dari kayu yang keras dan ujungnya bercabang dua.
+Sabel termasuk jenis peda dengan ukuran lebih panjang, yaitu 1-1,5m. Hulunya juga bercabang dua dan dipakai untuk perang, perisai sebagai penangkis terbuat dari kayu, diberi ukiran dengan motif motif binatang atau daun daun
+    </string>
+    <string name="makanansulut">
+Tinutuan atau dikenal juga dengan sebutan Bubur Manado merupakan makanan khas Sulawesi Utara yang paling terkenal. Di hampir semua tempat anda bisa menemukan kuliner yang satu ini. Bahkan di pusat-pusat keramaian terdapat lokasi yang dikhususkan untuk menjual tinutuan. Pasalnya, tinutuan telah menjadi bagian dari tradisi masak-memasak di daerah nyiur melambai. Apa bila anda sedang mengunjungi berbagai tempat wisata di Manado dan ingin menikmati lezatnya bubur Manado, maka anda dapat berkunjung ke jalan Wakeke yang merupakan pusat penjualan tinutuan.
+    </string>
+    <string name="tarisulut">
+        Tari Maengket, merupakan tari pergaulan yang dilakukan secara berpasang pasangan. Menggambarkan suasana kasih sayang dan cumbuan.
+    </string>
+
+    <string name="sulbar"> SULAWESI BARAT</string>
+    <string name="sulbar1">
+        Nama: Sulawesi Barat | Pulau: Sulawesi | Ibukota: Mamuju
+Gubernur: Anwar Adnan Saleh | Wakil Gubernur: Aladin S. Mengga (sejak 14 Desember 2011)
+Kode BPS: 76 | Kode ISO: ID-SR | Kode kendaraan: DC
+Kode telepon: 0422, 0426, 0428 | Kode pos: 91311-96365
+Luas: 16.787,19 km2 | Populasi: 1.158.651 jiwa | Kepadatan: 69.02 jiwa/km2
+Pembagian administratif: 5 kabupaten dan 0 kota, 65 kecamatan, 532 desa/kelurahan
+Semboyan: Mellete Diatonganan; Bahasa Indonesia: "Meniti pada Kebenaran"
+    </string>
+    <string name="rumahsulbar">
+        Rumah adat Mandar, yakni rumah panggung yang memiliki bentuk yang hampir sama dengan rumah adat suku Bugis dan Makassar. Perbedaanya pada bagian teras (lego) lebih besar dan atapnya seperti ember miring ke depan. Bentuk rumah panggung yang berdiri diatas tiang-tiangnya dimaksudkan untuk menghindari banjir dan binatang buas. Dan apabila semakin tinggi tingkat kolong rumah menandakan semakin tinggi pula tingkat status sosial pemiliknya.  Atap rumah umumnya terbuat dari sirap kayu besi, bambu, daun nipah, rumbia, ijuk atau ilalang. Tangga terbuat dari kayu (odeneng) atau bambu (sapana) dengan jumlah anak tangganya ganjil. Tingkat dinding berbentuk segitiga yang bersusun sebagai atap juga menunjukan kedudukan sosial pemilik rumah.
+    </string>
+    <string name="pakaiansulbar">
+        Di Sulawesi Barat mempunyai keragaman baju tradisionalnya. Pakaian tradisional Sulawesi Barat biasanya dikenakan dalam pertunjukan tari, acara pernikahan dll yang memiliki keragaman dalam busananya.
+Pakaian adat pada pria mengenakan jas yang tertutup dan berlengan panjang, dipadukan celana panjang sebagai pakaian bawahnya. Terdapat kain sarung yang dililitkan pada pinggangnya sampai kelutut. Sedangkan pakaian adat pada wanita Sulawesi Barat mengenakan baju Bodo dengan dihiasi kalung, gelang serta giwang. pada bagian kepala dikenakan sanggul dan beberapa hiasannya. Pakaian bawah dikenakan sarung yang dikenakan seperti rok.
+    </string>
+    <string name="senjatasulbar">
+        Badik atau badek bentuk khas yang dikembangkan oleh masyarakat Bugis dan Makassar.
+    </string>
+    <string name="makanansulbar">
+        Kue ini khas dari Mandar, Sulawasi Barat dengan bentuknya yang persegi tiga. Warnanya coklat dengan bahan dasar gula aren.
+        Apang dibuat dari tepung beras yang sebelumnya dikukus dalam cetakan. Dahulu kala, kue ini dicampur dengan tuak manis agar adonannya mengembang lebih sempurna. Namun sekarang, kebanyakan adonannya sudah dibuat dengan menggunakan baking powder saja.
+    </string>
+    <string name="tarisulbar">
+         Tari Bamba Manurung, ditujukan sewaktu acara pesta Adat Mamuju yang dihadiri oleh para penghulu adat beserta para tokok adat. Pakaian tari ini disebut baju Badu, dan di hiasi oleh bunga melati beserta kipas sebagai perlengkapan tarinya.
+    </string>
+
+    <string name="sulteng"> SULAWESI TENGAH</string>
+    <string name="sulteng1">Nama: Sulawesi Tengah | Pulau: Sulawesi | Ibukota: Palu
+Gubernur: Longki Djanggola | Wakil Gubernur: Sudarto (sejak 17 Juni 2011)
+Kode BPS: 72 | Kode ISO: ID-ST | Kode kendaraan: DN
+Kode telepon: 0445-0465 | Kode pos: 94111-94976
+Luas: 68.089,83 km2 | Populasi: 2.294.841 jiwa | Kepadatan: 33.7 jiwa/km2
+Pembagian administratif: 10 kabupaten dan 1 kota, 147 kecamatan, 1.664 desa/kelurahan
+Semboyan: Nosarara Nosabatutu (Bahasa Kaili); Bahasa Indonesia : "Bersama Kita Satu"</string>
+    <string name="rumahsulteng">
+Rumah adat Sulawesi Tengah disebut Rumah Tambai. Rumah tambai berupa rumah panggung dan atapnya sekaligus berfungsi sebagai dinding anak tangga dengan jumlah ganji menandaan rumah kepala adat dan yang berjumlah genap adalah milik penduduk desa.
+Alas rumah tersebut terdiri dari balok balok yang disusun, sedangkan pondasi atau dasarnya terdiri dari batu alam. Tangga untuk naik terbuat dari batang batang kayu bulat dan atap rumah Tambai itu terbuat dari daun rumbai atau bumbu yang dibelah dua.
+    </string>
+    <string name="pakaiansulteng">
+        Pakaian adat untuk prianya berupa hiasan kepala yang khas, siga namanya, baju yang menyerupai jubah yang disebut buya dan sebilah keris (pasatimpo) terselip pada pending yang ada dipinggang.
+Wanitanya memakai baju yang disebut patimah lola, kalung susun atau gena kambora, gelang yang disebut pontodate, dan anting anting yang disebut dali. Kepala dan dahi diberi hiasan yang dinamakan dadasa. Selain itu ia pun memakai pending. Pakaian ini dipakai untuk upacara pernikahan di Donggala.
+    </string>
+    <string name="senjatasulteng">
+        Pasatimpo adalah senjata tradisional yang terkenal di Sulteng. Bentuk hulunya bengkok kebawah dan sarungnya diberi tali. Senjata terkenal lainnya adalah tomak kanjoe atau surampa (ujungnya berbentuk trisula), parang, tombak, pisau, perisai, dan sumpitan. Senjata parang dipakai untuk bertani atau untuk berperang. Sedangkan tomak dipergunakan untuk berburu babi, mencari ikan atauk untuk berperang.
+    </string>
+    <string name="makanansulteng">
+Milu siram merupakan kuliner yang berbahan utama jagung muda, milu siram dikenal juga dengan nama binte biluhuta dan sup jagung. Kalau kamu lihat di google yang di maksud milu siram adalah binte biluhuta, hal ini berdasarkan adanya wikipedia yang berjudul binte bihuta.
+    </string>
+    <string name="tarisulteng">
+Tari Lumense dari Poso merupakan tarian selamat datang untuk menyambut tamu angung.
+    </string>
+
+
+    <string name="sulgara"> SULAWESI TENGGARA</string>
+    <string name="sulgara1">
+        Nama: Sulawesi Tenggara | Pulau: Sulawesi | Ibukota: Kendari
+Gubernur: Nur Alam | Wakil Gubernur: Saleh Lasata (sejak 18 Februari 2008)
+Kode BPS: 74 | Kode ISO: ID-SG | Kode kendaraan: DT
+Kode telepon: 0401-0408 | Kode pos: 93111-93958
+Luas: 36.757,45 km2 | Populasi: 2.232.586 jiwa | Kepadatan: 60.74 jiwa/km2
+Pembagian administratif: 10 kabupaten dan 2 kota, 185 kecamatan, 1.942 desa/kelurahan
+Semboyan: Bolimo Karo Somanamo Lipu
+    </string>
+    <string name="rumahsulgara">
+Salah satu contoh rumah adat Sulawesi Tenggara disebut Istana Sultan Buton. Istana Sultan Buton disebut juga Malige. Bangunan tersebut tidak memakai paku dan merupakan rumah panggung. Ia terdiri dari 3 lantai. Lantai pertama tempat kediaman raja dan permaisuri, lantai kedua untuk tempat tinggal dan lantai ketiga tempat wanita salat. Pada kiri kanan lanta dua ada ruangan tempat semacam menenun kain yang disebut Bate.
+    </string>
+    <string name="pakaiansulgara">
+         Prianya memakai pakaian adat berupa tutup kepala (destar), baju model jas tutup sarung sebatas dengkul dan celana panjang.
+Sedangkan wanitanya memakai baju kebaya. Diatas kepalanya terdapat hiasan kembang dan hiasan lainnya berupa anting anting, kalung, dan gelang. Pakaian adat ini berasal dari Kendari.
+    </string>
+    <string name="senjatasulgara">
+        Keris adalah senjata tradisional rakyat Sulawesi Tenggara/ bentuknya berlekuk lekuk seperti keris pada umumnya. Istana dan banteng kerajaan Sultan Buton sangat terkenal dalam sejarah perlawanan bersenjata menentang Belanda. Keris dan pedang dipakai untuk perang jarak dekat, sedangkan tombak, lembing dan sumpitan untuk perang jarak jauh.
+    </string>
+    <string name="makanansulgara">
+Sinonggi adalah makanan khas Suku Tolaki yang mirip dengan papeda asal Maluku atau kapurung dari Sulawesi Selatan. Sinonggi terbuat dari pati sari sagu yang setelah dimasak teksturnya seperti lem putih.
+    </string>
+    <string name="tarisulgara">
+        Tari Balumpa, merupakan tari selamat datang dalam menyambut tamu agung. Tari rakyat ini berasal dari Buton
+    </string>
+
+    <string name="sulsel"> SULAWESI SELATAN</string>
+    <string name="sulsel1">Nama: Sulawesi Selatan | Pulau: Sulawesi | Ibukota: Makassar
+Gubernur: Syahrul Yasin Limpo | Wakil Gubernur: Agus Arifin Nu'mang (sejak 8 April 2008)
+Kode BPS: 73 | Kode ISO: ID-SN | Kode kendaraan: DD, DP, DW
+Kode telepon: 0410-0421, 0423, 0427, 0471-0485 | Kode pos: 90111-92985
+Luas: 46.116,45 km2 | Populasi: 8.034.776 jiwa | Kepadatan: 174.23 jiwa/km2
+Pembagian administratif: 21 kabupaten dan 3 kota, 303 kecamatan, 2.936 desa/kelurahan
+Semboyan: Todo Poli; Bahasa Indonesia: "Teguh dalam keyakinan"</string>
+    <string name="rumahsulsel">
+        Rumah adat Sulawesi Selatan disebut Tongkonan. Tongkonan adalah rumah adat orang Toraja di Sulawesi Selatan. Kolong rumah itu berupa kandang kerbau belang atau tedong bonga. Kerbau ini merupakan lambang kekayaan, disepan rumah tersusun tanduk tanduk kerbau,sebagai perlambang pemiliknya telah berulang kali mengadakan upacara kematian secara besar besaran. Tongkonan terdiri dari 3 ruangan yaitu ruang tamu, ruang makan, dan ruang belakang.
+    </string>
+    <string name="pakaiansulsel">
+         Pakaian adat Selawesi Selatan yang dipakai prianya berupa tutup kepala, baju yang disebut baju bella dada, sarung yang disebut tope, keris tata ropprng (terbungkus dari emas seluruhnya) dan gelang nada yang disebut pottonaga.
+        Sedangkan wanitanya memakai ikat kepala, baju lengan pendek, Tope atau sarung dengan rantainya, ikat pinggang dengan sebilah keris terselip didepan perut. Perhiasan yang dipakai adalah anting anting panjang atau bangkara a’rowe, kalung tunggal atau geno sibatu dan gelang tangan. Pakaian ini berdasarkan adat Bugis Makasar.
+    </string>
+    <string name="senjatasulsel">
+        Badik merupakan senjata tradisional yang sangat terkenal di Sulawesi Selatan. Bentuknya kokoh dan cukup mengerikan. Senjata terkenal lainnya adalah peda (semacam perang), sabel, tombak, dan perisai.
+    </string>
+    <string name="makanansulsel">
+        Makanan ini merupakan khas dari Sulawesi Selatan, khususnya warga daerah Luwu (Kota Palopo, Luwu Utara, Luwu Timur, Kabupaten Luwu). Kapurung terbuat dari sari atau tepung sagu yang dimasak bersama campuran ikan atau daging ayam serta berbagai sayuran.
+    </string>
+    <string name="tarisulsel">
+        Tari Kipas, yang mempertunjukkan kemahiran para gadis dalam memainkan kipas dalam suasana gemuaku sambil mengikuti alunan lagu
+    </string>
+
+
+    <string name="gorontalo"> GORONTALO</string>
+    <string name="gorontalo1">
+        Nama: Gorontalo | Pulau: Sulawesi | Ibukota: Gorontalo
+Gubernur: Rusli Habibie | Wakil Gubernur: Idris Rahim (sejak 16 Januari 2012)
+Kode BPS: 75 | Kode ISO: ID-GO | Kode kendaraan: DM
+Kode telepon: 0435, 0443 | Kode pos: 96111-96585
+Luas: 11.967,64 km2 | Populasi: 1.040.164 jiwa | Kepadatan: 86.91 jiwa/km2
+Pembagian administratif: 5 kabupaten dan 1 kota, 44 kecamatan, 268 desa/kelurahan
+Semboyan: Duluo Limo Lo Pohalaa; Bumi Serambi Madinah
+Rumah Adat Gorontalo
+    </string>
+    <string name="rumahgorontalo">
+        Rumah adat Dulohupa ini letaknya di Kelurahan Limba, Kecamatan Kota Selatan, Kota Gorontalo. Rumah Dulohupa juga disebut Yiladia Dulohupa Lo Ulipu Hulondhalo oleh penduduk Gorontalo. Rumah adat ini berbentuk rumah panggung yang badannya terbuat dari papan dan struktur atap bernuansa daerah Gorontalo. Selain itu rumah adat Dulohupa juga dilengkapi pilar-pilar kayu sebagai hiasan serta lambang dari rumah adat Gorontalo dan memiliki dua tangga yang berada di bagian kiri dan kanan rumah adat yang menjadi symbol tangga adat atau disebut tolitihu.
+    </string>
+    <string name="pakaiangorontalo">
+        Salah satu pakaian adat adat yang unik adalah pakaian adat istiadat daerah Gorontalo. Dalam acara pernikahan pakaian daerah khas Gorontalo disebut Biliu(pakaian pengantin putri) dan Mukuta (pakaian pengantin putra). Pakaian adat Gorontalo umumnya mempunyai tiga warna dan memiliki arti tertentu yaitu warna ungu, warna kuning keemasan, dan warna hijau. Selain itu dalam upacara pernikahan adat Gorontalo, masyarakat hanya menggunakan empat warna utama, yaitu merah, hijau, kuning emas, dan ungu. Warna merah dalam masyarakat adat Gorontalo bermakna keberanian dan tanggung jawab, warna hijau bermakna kesuburan, kesejahteraan, kedamaian, dan kerukunan, warna kuning emas bermakna kemuliaan, kesetian, kebesaran, dan kejujuran, sedangkan warna ungu bermakna keanggunanan dan kewibawaan.
+    </string>
+    <string name="senjatagorontalo">
+        Aliyawo adalah salah satu senjata tradisional masyarakat Gorontalo yang digunakan pada waktu perang panipi oleh para prajurit kerajaan dalam merebut kekuasaan. Senjata ini dipakai oleh empat kerajaan yakni kerajaan Limboto, Suwawa, Gorontalo, dan Gowa.
+    </string>
+    <string name="makanangorontalo">
+        Salah satu kuliner khas Gorontalo yang berbahan dasar Jagung paling populer yaitu Binte Biluhuta, dimana kata ” Binte “ artinya Jagung, sedangkan ” Biluhuta “ artinya disiram, jadi Binte Biluhuta adalah Jagung yang disiram. Sekilas Binte Biluhuta mirip dengan bubur manado, yaitu sama-sama makanan berkuah dengan suwiran ikan dan sayur-sayuran, perbedaannya cuma dibahan dasarnya, kalau bubur manado dari beras atau singkong, sedangkan Binte Biluhuta dari Jagung. Kalau orang Gorontalo atau orang Sulawesi Utara sering menyebut makanan ini sebagai ” Milu Siram “, dimana nama ini diambil dari jenis Jagung yaitu Jagung putih (Jagung Milu) yang sering digunakan sebagai bahan dasar makanan ini.
+    </string>
+    <string name="tarigorontalo">
+        Kata dana-dana pada tarian ini berasal dari bahasa daerah Daya-Dayango yang artinya adalah menggerakkan seluruh anggota tubuh sambil berjalan. Tari dana-dana merupakan tarian pergaulan remaja gorontalo. Tarian ini dilakukan oleh 2 sampai 4 orang laki-laki. Tarian dana0dana ini dimainkan dengan gerakan-gerakan yang lincah dan dinamis. Dalam tarian ini seluruh anggota badan harus gerak sesuai dengan irama musik. Tari dana-dana biasanya akan diiringi oleh alat musik gembus dan rebana serta lagu yang berisi pantun bertema percintaan atau nasihat-nasihat yang bertemakan kehidupan remaja. Tarian dana-dana ini memang menggambarkab sosok para remaja yang energik dengan gairah hidup besar, kekaraban pergaulan remaja dan kehidupan dunia remaja.
+    </string>
+
+
+    <string name="malut"> MALUKU UTARA</string>
+    <string name="malut1">
+        Nama: Maluku Utara | Pulau: Maluku| Ibukota: Sofifi
+Gubernur: Abdul Ghani Kasuba | Wakil Gubernur: Muhammad Natsir Thaib (sejak 2 Mei 2014)
+Kode BPS: 82 | Kode ISO: ID-MU | Kode kendaraan: DE
+Kode telepon: 920-929 | Kode pos: 97751
+Luas: 31.982 km2 | Populasi: 1.388.748 jiwa | Kepadatan: 36,34 jiwa/km2
+Pembagian administratif: 8 kabupaten dan 2 kota, 112 kecamatan, 1071 desa/kelurahan
+Semboyan: Marimoi Ngome Futuru (Bahasa Maluku Utara); Bahasa Indonesia: "Bersatu kita kuat"
+    </string>
+    <string name="rumahmalut">
+        Rumah adat Maluku Utara hampir sama dengan rumah adat di Maluku yaitu rumaha adat Baileo. Rumah adat Maluku Utara ini digunakan sebagai tempat bermusyawarah bagi masyarakat dan pemuka-pemuka adatnya. Selain itu sebagai tempat upacara adat seniri negeri. Rumha adat Maluku Utara berbentuk rumah panggung dengan bentuknya yang persegi. Terbuat dari kayu sebagai kerangkanya dan gaba-gaba atau semacam tangkai rumbia sebagai dinding rumahnya. Atap rumah adat ini dibuat agak besar dan tinggi dari bahan rumbia. Selain ini dibuat juga beranda atau teras pada bagian depan rumah.
+    </string>
+    <string name="pakaianmalut">
+        Pakaian adat Maluku Utara pada pria mengenakan kemeja berenda-renda yang dilapisi dengan pakaian luar berupa jas berwarna merah atau hitam dan berlengan panjang. Pada bagian bawahnya memakai celana panjang model cutbray dan dilapisi ikat pinggang.
+Sedangkan pakaian adat pada wanitanya memakai baju cele yaitu kebaya pendek bersuji dan berkanji. Dilengkapi dengan perhiasan anting, kalung panjang dan cincin. Bagian bawahnya mengenakan rok.
+    </string>
+    <string name="senjatamalut">
+        Senjata Parang-Sawalaku, digunakan pada saat berperang, berburu hewan serta dipakai penari pria pada tarian caklele.
+    </string>
+    <string name="makananmalut">
+        Gohu Ikan 
+adalah makanan khas kota ternate, Maluku Utara. Jika Anda hendak memesan makanan ini, Anda harus menyebut lengkap dengan nama Gohu Ikan, karena jika Anda hanya menyebut Gohu, itu berarti Anda memesan rujak pepaya muda yang juga populer di Sulawesi Utara. Gohu ikan biasa terbuat dari ikan tuna mentah 
+    </string>
+    <string name="tarianmalut">
+        Tari daerah Maluku Utara yaitu Tari Lenso merupakan tari pergaulan bagi seluruh lapisan masyarakat Maluku. Gerak tarian ini lemah lembut dan gemulai, dibawakan oleh satu penari wanita atau lebih.
+    </string>
+
+
+    <string name="maluku"> MALUKU</string>
+    <string name="maluku1">
+        Nama: Maluku | Pulau: Maluku| Ibukota: Ambon
+Gubernur: Said Assagaff | Wakil Gubernur: Zeit Sahuburua (sejak 2 Mei 2014)
+Kode BPS: 81 | Kode ISO: ID-M | Kode kendaraan: DE
+Kode telepon: 0364 | Kode pos: 97237
+Luas: 705.645 km2 | Populasi: 1.715.548 jiwa | Kepadatan: - jiwa/km2
+Pembagian administratif: 12 kabupaten dan 2 kota, 98 kecamatan, 33 desa/kelurahan
+Semboyan: Siwa Lima (Bahasa Maluku); Bahasa Indonesia: "Milik Bersama"
+    </string>
+    <string name="rumahmaluku">
+        Rumah adat Maluku dinamakan Baileo. Baileo dipakai untuk tempat pertemuan, musyawarah dan upacara adat yang disebut Saniri Negeri. Rumah tersebut merupakan panggung dan dikelilingi oleh serambi. Atapnya besar dan tinggi terbuat dari daun rumbia, sedangkan dindingnya dari tangkai rumbai yang disebut.
+    </string>
+    <string name="pakaianmaluku">
+        Prianya memakai pakaian adat berupa setelann jas berwarna merah dan hitam, baju dalam yang berenda dan ikat pinggang. Sedangkan wanitanya memakai baju Cele, semacam kebaya pendek, dan berkain yang disuji. Perhiasannya berupa anting anting, kalung dan cincin. Pakaian ini berdasarkan adat Ambon.
+    </string>
+    <string name="senjatamaluku">
+        Senjata tradisional yang terkenal di Maluku adalah Parang Salawaku. Panjang parang 90-100cm, sedangkan Salawaku (perisainya) dihiasi dengan motif motif yang melambangkan keberanian.
+Parang tersebut terbuat dari bahan besi yang keras dan ditempa oleh seorang pandai besi khusus. Tangkai parang terbuat dari kayu keras, seperti kayu besi atau kayu gupasa. Sedangkan Salawaku (perisainya) terbuat dari kayu yang keras pula. Selain untuk keperluan perang, parang salawaku dipakai pula dalam menarika tari Cakalele.
+    </string>
+    <string name="makananmaluku">
+        adalah makanan khas kota ternate, Maluku Utara. Jika Anda hendak memesan makanan ini, Anda harus menyebut lengkap dengan nama Gohu Ikan, karena jika Anda hanya menyebut Gohu, itu berarti Anda memesan rujak pepaya muda yang juga populer di Sulawesi Utara. Gohu ikan biasa terbuat dari ikan tuna mentah
+    </string>
+    <string name="tarianmaluku">
+        a. Tari Lenso, merupakan tari pergaulan bagi segenap lapisan masyarakat Maluku.
+        b. Tari Cakalele, adalah tari perang yang melukiskan jiwa kepahlawanan yang gagah perkasa.
+        c. Tari Cakaola, merupakan jenis tari pergaulan yang digarap berdasarkan unsur unsur gerak tari tradisional Orlapei dan Saureka reka. Tari ini biasannya ditarikan untuk memeriahkan pesta pesta atau dipertunjukkan dalam rangka manjamu tamu tamu terhormat.
+    </string>
+
+    <string name="papbar"> PAPUA BARAT</string>
+
+    <string name="rumahpapbar">
+        Namun, sebenarnya rumah adat provinsi Papua Barat yang asli berasal daru suku Arfak, bernama Mod Aki Aksa (Lgkojei) yang berarti Rumah Kaki Seribu. Rumah adat yang asli atapnya terbuat dari daun jerami atau daun sagu dan kayu sebagai tiangnya. Tiang-tiang yang dibuat ada yang pendek dan ada yang tinggi, tiang tersebut berguna untuk melindungi diri dari musuh dan ancaman orang yang berniat jahat atau ilmu hitam.
+    </string>
+    <string name="pakaianpapbar">
+        Pakaian adat di wilayah Papua Barat bernama pakaian adat Serui. Tidak jauh berbeda dengan pakaian adat yang ada di Papua, bentuk pakaiannya hampir sama baik pria dan wanita. Model penutup badan bagian bawah serta bajunya sama. Mereka memakai baju dan penutup badan bagian bawah dengan bentuk yang sama. Hiasan didada dan kepala juga mereka kenakan  berupa kalung, gelang, hiasan burung cendrawasih pada bagian kepala daln lain sebagainya.  Merupakan ciptaan baru yang tergambar pada bentuk pakaiannya. Perlengkapan yang dikenakan pria pada saat pernikahan biasanya pengantin pria memegang perisai seperti panah atau tombah agar berkesan adat Papua.
+    </string>
+    <string name="senjatapapbar">
+        Busur terbuat dari bahan bambu dan kayu, sedangkan tali busurnya terbuat dari rotan dan untuk anak panahnya terbuat dari tulang kangguru atau kayu. Butuh keahlian khusus dan latihan untuk bisa menggunakan senjata tradisional ini. Karena dibutuhkan konsentrasi penuh agar tembakan anak panah tepat sasaran.
+    </string>
+    <string name="makananpapbar">
+        Makanan yang berbahan dasar tepung sagu ini berstruktur sangat lembut. Papeda diolah menyerupai bubur dan bewarna putih dengan tekstur seperti ketan dan lengket menyerupai lem dan memiliki rasa tawar. Tapi, jangan salah! Papeda bisa disulap menjadi makanan yang lezat karena biasanya warga Papua menyajikannya dengan ikan Tongkol atau Mubara yang dimasak dengan kuah kuning kunyit sehingga rasanya menjadi sangat sedap untuk disantap.
+    </string>
+    <string name="tarianpapbar">
+         "    - Tari Perang merupakan tari yang melambangkan kegagahan dan kepahlawanan masyarakat Papua.\n"
+         "    - Tari Suanggi merupakan tari yang mengisahkan seorang istri yang mati akibat korban angi-angi (jejadian).
+    </string>
+
+    <string name="papua"> PAPUA</string>
+    <string name="papua1">
+        "\t Nama: Daerah khusus Papua | Pulau: Papua | Ibukota: Jayapura \n\n"
+        "\t Gubernur: Lukas Enembe | Wakil Gubernur: Klemen Tinal (sejak 9 April 2013) \n\n"
+        "\t Kode BPS: 94 | Kode ISO: ID-PA | Kode kendaraan: PA \n\n"
+        "\t Kode telepon: 0951-0986, 0901, 0902 | Kode pos: 98111-99974 \n\n"
+        "\t Luas: 309.934,40 km2 | Populasi: 2.831.381 jiwa | Kepadatan: 9.14 jiwa/km2 \n\n"
+        "\t Pembagian administratif: 28 kabupaten dan 1 kota, 344 kecamatan, 3.575 desa/kelurahan \n\n"
+        "\t Semboyan: Karya Swadaya"
+    </string>
+    <string name="rumahpapua">
+        "( Rumah Adat Papua )"
+    </string>
+    <string name="rumahpapua1">
+        " \t Salah satu contoh rumah adat Papua dinamakan Honai. Honai merupakan rumah adat Papua yang dihuni oleh suku Dani. "
+        "Rumah tersebut terdiri dari dua lantai yaitu lantai pertama sebagai tempat tidur dan lantai kedua untuk tempat bersantai, "
+        "makan dan mengerjakan kerajinan tangan. Pintu Honai amat kecil, tanpa jendela dan atapnya terbuat dari rumput lalang. "
+    </string>
+    <string name="rumahpapua2">
+        "\t Honai terbentuk seperti jamur dengan ketinggian sekitar 4m. Rumah itu luasnya sekitar12-16m. "
+        "Dahulu anak laki laki diwajibkan berjaga jaga di Honai dari malam hingga pagi hari, "
+        "sedangkan anak perempuan/para gadis boleh tidur di Honai secara berkelompok. "
+        "Selain itu terdapat pula rumah yang berfungsi sebagai kuil animisme. Rumah itu berbentuk kerucut tinggi keatas."
+    </string>
+    <string name="pakaianpapua">
+        "( Pakaian Adat Papua )
+    </string>
+    <string name="pakaianpapua1">
+        " \t Pria Papua mengenakan pakaian adat berupa hiasan kepala, kalung yang terbuat dari gigi dan tulang hewan, "
+        "kalung dari kerang, ikat pinggang dan sarung yang berumbai rumbai. Tombak beserta, tameng dengan hiasan yang khas ikut menyertai pakaian adatnya. \n"
+        " \t Wanitanya memakai kalung dari kerang dan gigi binatang, hiasan pada lengan serta pakaian berumbai rumbai. "
+    </string>
+    <string name="senjatapapua">
+        "( Pisau Belati )"
+    </string>
+    <string name="senjatapapua1">
+        " \t Salah satu senjata tradisional di Papua adalah pisau belati. Senjata ini terbuat dari tulang burung Kasuari "
+        "dan bulunya menghiasi hulu belati tersebut. \n"
+        " \t Senjata utama penduduk asli Papua lainnya adalah busur dan panah. Busur terbuat dari bumbu dan kayu, "
+        "sedangkan tali busur terbuat dari rotan. Anak panahnya terbuat dari bumbu, kayu atau tulang kanguru. "
+        "Busur dan panah dipakai untuk berburu atau berperang. "
+    </string>
+
+    <string name="taripapua">
+        "( Tari Selamat Datang, Papua )"
+    </string>
+    <string name="taripapua1">
+        "a.    Tari Selamat Datang, merupakan tari yang mempertunjukkan kegembiraan hati penduduk dalam menyambut para tamu yang dihormati. \n"
+        "b.    Tari Musyoh, merupakan tari suci/keramat dalam upaya mengusir arwah orang meninggal karena kecelakaan. \n"
+        "c.    Tari Mbes, merupakan tari garapan yang berfungsi sebagai tari penyambutan tamu. "
+        "Yang unik dalam tari ini adalah adanya penggambaran tamu yang digotong dalam posisi berlentang pada sebuah perisai. "
+        "Sementara tifa, yang ritmis dinamis ditengah perkikan perkikan khas, merupakan warna tersendiri bagi tari yang diangkat dari daerha Asmat ini. "
+    </string>
+    <string name="makananpapua">
+        " \t Siapa yang tak kenal dengan Papeda? Makanan ini begitu digemari warga sekitar dan bikin wisatawan penasaran karena tampilannya yang kental dan unik. "
+        "Makanan ini terbuat dari bahan dasar tepung sagu sehingga tak heran jika teksturnya kental. \n"
+        " \t Selain itu cara makannya dengan menggulung makanan menggunakan gata-gata (terbuat dari bambu), "
+        "baru hidangan siap disantap. Jangan khawatir, kandungannya baik untuk kesehatan, lho! "
+    </string>
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_1button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

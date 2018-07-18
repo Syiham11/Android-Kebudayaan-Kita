@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc"
+    tools:context="com.example.nugraha10.kebudayaannusantara.prov.Lampung">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/lampung" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/lampung"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:fontFamily="casual"
+            android:textColor="@color/putih"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@color/item"></View>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/lampung1"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rumah Adat Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rumahlampung"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Rumah Sesat )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/rumahlampung"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pakaian Adat Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/pakaianlampung"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Pakaian Adat Lampung)"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/pakaianlampung"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Senjata Tradisional Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/senjatalampung"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Terapang )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/senjatalampung"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Makanan Khas Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/makananlampung"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Seruit )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/makananlampung"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tarian Khas Lampung"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/tarianlampung"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Tari Melinting )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/tarianlampung"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

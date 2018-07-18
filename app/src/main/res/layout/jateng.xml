@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc"
+    tools:context="com.example.nugraha10.kebudayaannusantara.prov.Jateng">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/jateng" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/jateng"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:fontFamily="casual"
+            android:textColor="@color/putih"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@color/item"></View>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/cornerr"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:text="Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="@string/jateng1"
+                android:textColor="@color/putih" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rumah Adat Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rumahjateng"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Padepokan )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/rumahjateng"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pakaian Adat Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/pakaianjateng"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Pakaian Adat Pengantin )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/pakaianjateng"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Senjata Tradisional Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/senjatajateng"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Senjata Tradisional Keris )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/senjatajateng"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Makanan Khas Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/makananjateng"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Nasi Gandul )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/makananjateng"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/cornerr">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tarian Khas Jawa Tengah"
+                android:textColor="@color/putih"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:layout_gravity="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/item"></View>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_marginTop="10dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:background="@drawable/tarianjateng"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:text="( Tari Serimpi )"
+                android:textColor="@color/item"
+                android:textStyle="italic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="@color/putih"
+                android:text="@string/tarianjateng"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

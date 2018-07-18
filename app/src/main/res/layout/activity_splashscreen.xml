@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc"
+    tools:context="com.example.nugraha10.kebudayaannusantara.Splashscreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KEBUDAYAAN NUSANTARA"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="cursive"
+            android:textSize="25sp"
+            android:layout_marginTop="45sp"
+            android:textStyle="bold"
+            android:textColor="@color/putih"
+            android:id="@+id/textView" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="170sp"
+            android:layout_marginTop="110sp"
+            android:background="@drawable/peta"
+            android:id="@+id/imageView" />
+
+        <ProgressBar
+            android:id="@+id/progressbar_default"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="360dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please Wait..."
+            android:textColor="@color/putih"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="425dp"
+            android:textSize="20dp"/>
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>
